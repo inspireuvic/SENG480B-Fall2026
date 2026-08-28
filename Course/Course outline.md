@@ -15,7 +15,8 @@ The INSPIRE program is a community-driven, impact-focused initiative at the Univ
 Each team is responsible for managing the scope of their project, documenting requirements, and keeping detailed documentation outlining any and all technical decisions, meeting minutes, and project changes in a shared repository (GitHub recommended). Projects often require students to learn new technical skills, such as mastering an unfamiliar web framework or tool, and apply these skills towards a new deliverable.   
 Participation in the program also includes engaging with the events hosted through the INSPIRE program. 
 
-Below, the core expectations are outlined in 7 parts:   
+Below, the core expectations are outlined in 7 parts:
+
 **Core Expectations for INSPIRE & SENG480B Students**   
 **1\. Liaise with Community Partners** You will maintain regular, professional communication with your assigned community partner. This means:   
 ● Scheduling and attending meetings.   
