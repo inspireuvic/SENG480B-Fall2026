@@ -1,5 +1,5 @@
  **Purpose**   
-This outline explains exactly what is expected of you during the INSPIRE/SENG480B program. It ensures you, your team, your mentors, and your community partners have a shared understanding of your resp[...]
+This outline explains exactly what is expected of you during the INSPIRE/SENG480B program. It ensures you, your team, your mentors, and your community partners have a shared understanding of your responsibilities, deliverables, and key milestones.
 
  Your work should:   
 ● Address your community partner’s needs and values in a practical and sustainable way.   
@@ -7,12 +7,10 @@ This outline explains exactly what is expected of you during the INSPIRE/SENG480
 ● Incorporate equity, diversity, and inclusion (EDI) considerations at every stage.   
 ● Be delivered on time, with clear communication and regular progress updates. 
 
-In this document you will find core expectations which are expected of you throughout the duration of the semester. Additionally, there is a week to week outline which illustrates what tasks should be[...]
-The INSPIRE program is a community-driven, impact-focused initiative at the University of Victoria that connects interdisciplinary student teams with real community partners to co-create meaningful, s[...]
+In this document you will find core expectations which are expected of you throughout the duration of the semester. Additionally, there is a week to week outline which illustrates what tasks should be completed or addressed at each stage of the project.   
+The INSPIRE program is a community-driven, impact-focused initiative at the University of Victoria that connects interdisciplinary student teams with real community partners to co-create meaningful, sustainable, digital solutions. Projects are student-led, with teams functioning like professional software development start-ups, managing their own workflows, requirements, and deadlines while maintaining strong, ongoing communication with their partner organizations and stakeholders. Students are expected to operate accordingly to the expectations of a self-organized team, by liaising regularly with their stakeholders, and balancing technical development with equity, diversity, and inclusion considerations. Examples of projects from previous years can be found at [inspireuvic.org](https://inspireuvic.org/). 
 
-For more information, see the INSPIRE website: https://inspireuvic.org/
-
-Each team is responsible for managing the scope of their project, documenting requirements, and keeping detailed documentation outlining any and all technical decisions, meeting minutes, and project c[...]
+Each team is responsible for managing the scope of their project, documenting requirements, and keeping detailed documentation outlining any and all technical decisions, meeting minutes, and project changes in a shared repository (GitHub recommended). Projects often require students to learn new technical skills, such as mastering an unfamiliar web framework or tool, and apply these skills towards a new deliverable.   
 Participation in the program also includes engaging with the events hosted through the INSPIRE program. 
 
 Below, the core expectations are outlined in 7 parts:   
@@ -38,7 +36,7 @@ Below, the core expectations are outlined in 7 parts:
 ● Learning new libraries, tools, or APIs relevant to your project.   
 ● Seeking out tutorials, documentation, and peer support to build competence. 
 
-In cases where the project team is struggling with certain technical competencies, a lecture or workshop on the specific competency can be given, provided that we are able to find an appropriate instr[...]
+In cases where the project team is struggling with certain technical competencies, a lecture or workshop on the specific competency can be given, provided that we are able to find an appropriate instructor. 
 
 **5\. Manage Documentation in a Repository (GitHub Recommended)** Your project should have a centralized documentation hub that is regularly updated. This includes:   
 ● Maintaining a clear file structure in your repository.   
@@ -55,7 +53,7 @@ In cases where the project team is struggling with certain technical competencie
 **7\. Participation and Deliverables**   
 ● Attend and actively participate in class discussions, stakeholder engagements and requirement elicitations, developments, feedback sessions, demos and presentations
 
-● Deliver high-quality **reflection reports** summarizing lessons learned, project impact, and recommendations. Reflections are both team based and individual; superficial reflections will receive a[...]
+● Deliver high-quality **reflection reports** summarizing lessons learned, project impact, and recommendations. Reflections are both team based and individual; superficial reflections will receive a grade of 0\. 
 
 ● Participate in **playback sessions** to present progress and final outcomes to peers, mentors, and community partners. 
 
