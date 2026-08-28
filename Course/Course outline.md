@@ -18,35 +18,47 @@ Participation in the program also includes engaging with the events hosted throu
 Below, the core expectations are outlined in 7 parts:
 
 **Core Expectations for INSPIRE & SENG480B Students**   
-**1\. Liaise with Community Partners** You will maintain regular, professional communication with your assigned community partner. This means:   
+**1\. Liaise with Community Partners** 
+
+You will maintain regular, professional communication with your assigned community partner. This means:   
 ● Scheduling and attending meetings.   
 ● Providing progress updates.   
 ● Requesting feedback at key stages of the project.   
 ● Ensuring the partner’s needs are accurately represented in your work. 
 
-**2\. Work as a Self-Organized Team** Your team is responsible for managing your own workflow. This includes:   
+**2\. Work as a Self-Organized Team** 
+
+Your team is responsible for managing your own workflow. This includes:   
 ● Defining roles and responsibilities within the team.   
 ● Setting internal deadlines and ensuring accountability.   
 ● Resolving conflicts and making group decisions collaboratively. 
 
-**3\. Manage Requirements and Scope** You are expected to capture, track, and refine the project’s requirements throughout the term. This involves:   
+**3\. Manage Requirements and Scope** 
+
+You are expected to capture, track, and refine the project’s requirements throughout the term. This involves:   
 ● Gathering requirements from the community partner.   
 ● Creating and maintaining a requirements document.   
 ● Managing changes to scope in a way that keeps your partners’ needs in mind as well as your realistic constraints. 
 
-**4\. Independently Seek Resources on Technical Skills** , for example:   
+**4\. Independently Seek Resources on Technical Skills** 
+
+For example:   
 ● Researching and adopting a new web development framework.   
 ● Learning new libraries, tools, or APIs relevant to your project.   
 ● Seeking out tutorials, documentation, and peer support to build competence. 
 
 In cases where the project team is struggling with certain technical competencies, a lecture or workshop on the specific competency can be given, provided that we are able to find an appropriate instructor. 
 
-**5\. Manage Documentation in a Repository (GitHub Recommended)** Your project should have a centralized documentation hub that is regularly updated. This includes:   
+**5\. Manage Documentation in a Repository (GitHub Recommended)** 
+
+Your project should have a centralized documentation hub that is regularly updated. This includes:   
 ● Maintaining a clear file structure in your repository.   
 ● Using version control effectively.   
 ● Keeping documentation accessible to both technical and non-technical stakeholders (e.g. sharing the repository and avoiding jargon where possible). 
 
-**6\. Keep Detailed, Up-to-Date Documentation** Your documentation should tell the full story of the project and support future maintenance. It should include:   
+**6\. Keep Detailed, Up-to-Date Documentation** 
+
+Your documentation should tell the full story of the project and support future maintenance. It should include:   
 ● Technical decisions and rationale.   
 ● Meeting minutes (both internal and with the partner).   
 ● Requirements document and updates with any scope changes along with the rationale   
