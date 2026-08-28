@@ -1,7 +1,6 @@
 # GitHub Requirement Issue Template
 
-Use one GitHub issue for each meaningful requirement, desired outcome, or stakeholder-facing product capability.
-
+Use one GitHub issue for each meaningful requirement. This will help you maintain revision records, track development progress, and support traceability, validation, and evaluation.
 
 Use the **Value ID(s)** defined in the **Stakeholder & Value Elicitation Plan** to connect requirements back to the stakeholder values, concerns, priorities, and supporting elicitation evidence recorded there.
 
