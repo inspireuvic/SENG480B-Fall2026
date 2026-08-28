@@ -17,7 +17,8 @@ Participation in the program also includes engaging with the events hosted throu
 
 Below, the core expectations are outlined in 7 parts:
 
-**Core Expectations for INSPIRE & SENG480B Students**   
+**Core Expectations for INSPIRE & SENG480B Students** 
+
 **1\. Liaise with Community Partners** 
 
 You will maintain regular, professional communication with your assigned community partner. This means:   
