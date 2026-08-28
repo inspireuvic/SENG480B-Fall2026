@@ -25,3 +25,8 @@ If a field is not relevant, write **N/A** .
 
 
 Create a **sub-issue** when a piece of work needs its own owner, status, discussion, or pull request.
+
+** Marking Notes:**
+
+- All the identified values are turned into requirements and entered as GitHub issues eg: epics, functional or nonfunctional requirements, user stories
+- All required fields shown in the template are completed, with relevant links or supporting information provided where necessary.
