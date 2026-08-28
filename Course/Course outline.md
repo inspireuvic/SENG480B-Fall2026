@@ -1,6 +1,8 @@
  **Purpose**   
 This outline explains exactly what is expected of you during the INSPIRE/SENG480B program. It ensures you, your team, your mentors, and your community partners have a shared understanding of your responsibilities, deliverables, and key milestones.
 
+Official Outline of the Course can be found in [here](https://inspireuvic.org/seng-480/) 
+
  Your work should:   
 ● Address your community partner’s needs and values in a practical and sustainable way.   
 ● Apply professional software engineering processes and methodologies.   
