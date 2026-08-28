@@ -18,7 +18,7 @@ If a field is not relevant, write **N/A** .
 | **Acceptance Criteria** | What must be true for this requirement to be considered satisfied? |
 | **AI Contribution, if any** | What did AI generate, suggest, revise, implement, test, analyse, or evaluate? If no AI was used, write `None`. |
 | **AI Review / Verification** | How was the AI contribution checked before being accepted? Record whether it was **Accepted, Revised, or Rejected**. |
-| **Stakeholder Review / Feedback** | If applicable, who reviewed the requirement, prototype, feature, or outcome? What feedback was received and what changed? |
+| **Stakeholder Review / Feedback** | If applicable, who reviewed,  What feedback was received and what changed? |
 | **Notes / Decisions / Trade-offs** | Record only important assumptions, alternatives, scope decisions, or trade-offs. |
 | **Related Work** | Link related sub-issues, pull requests, tests, prototypes, or other evidence. |
 
