@@ -69,7 +69,7 @@ If there is no current tension or trade-off, write **N/A**.
 
 If a planned review has not yet happened, the review outcome may be marked **Pending**.
 
-## 4. Using This Plan With GitHub Issues
+## 4. Generate GitHub Issues for requirements
 
 When a stakeholder need, concern, or value leads to a product requirement, create or update the corresponding GitHub requirement issue.
 
