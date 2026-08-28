@@ -3,7 +3,8 @@ This outline explains exactly what is expected of you during the INSPIRE/SENG480
 
 Official Outline of the Course can be found in [here](https://inspireuvic.org/seng-480/) 
 
- Your work should:   
+ Your work should: 
+ 
 ● Address your community partner’s needs and values in a practical and sustainable way.   
 ● Apply professional software engineering processes and methodologies.   
 ● Incorporate equity, diversity, and inclusion (EDI) considerations at every stage.   
@@ -17,7 +18,7 @@ Participation in the program also includes engaging with the events hosted throu
 
 Below, the core expectations are outlined in 7 parts:
 
-**Core Expectations for INSPIRE & SENG480B Students** 
+**Core Expectations for INSPIRE & SENG480B Students:** 
 
 **1\. Liaise with Community Partners** 
 
