@@ -83,3 +83,10 @@ A requirement may relate to more than one value. If there is no direct stakehold
 
 > **Related Value ID(s): None**
 
+**Marking Notes:**
+
+-Clear Stakeholder identification map and their engagement plan
+-Value elicitation approach with relevant engagment notes provided, eg: stakeholder interview notes, observation
+-Identified values provided
+-Values verification and review process provided, supported by documented review notes and feedback.
+-Updates are applied to the identified values based on review feedback
