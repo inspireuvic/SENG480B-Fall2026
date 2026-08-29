@@ -9,7 +9,9 @@
 This  plan helps your team identify relevant stakeholders and plan how you will learn what matters to them before and during product development.
 
 **Stakeholder values** are things that stakeholders consider important, desirable, worth protecting, or worth achieving in relation to how a software system affects their lives, work, experiences, decisions, communities, and the environment.
+
 **Examples of abstract values** include: privacy, accessibility, fairness, autonomy, safety, trust, dignity, inclusion, transparency, cultural respect, sustainability, reliability, accountability, convenience, and efficiency.
+
 **Important:** Abstract values can have different meanings and priorities for different stakeholder groups. You should therefore identify what each value means in the specific context of your project and for the relevant stakeholder group(s). Where possible, express the value in terms of what it means for stakeholders and how it should be reflected in the software system.
 
 
