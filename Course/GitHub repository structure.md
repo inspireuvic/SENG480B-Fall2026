@@ -1,6 +1,6 @@
 ## Repository Structure
 Please have an organized structure for the necesary files and deliverables
-SENG480B-Fall2026-TeamA/
+```SENG480B-Fall2026-TeamA/
 │
 ├── README.md
 │
@@ -20,7 +20,7 @@ SENG480B-Fall2026-TeamA/
     ├── references/
     ├── meeting-materials/
     ├── templates/
-    └── archived-materials/
+    └── archived-materials/```
 
 - **deliverables/** — Final and working project deliverables submitted by Team A.
 - **supporting-documents/** — Evidence and notes used to inform stakeholder engagement, observations, reviews, and decisions.
