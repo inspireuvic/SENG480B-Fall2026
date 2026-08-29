@@ -11,7 +11,7 @@ SENG480B-Fall2026-TeamA/
 │   ├── sprint-planning.md
 │   └── sprint-retrospective.md
 │
-├── supporting-documents/
+├── supportive-documents/
 │   ├── stakeholder-interview-notes/
 │   ├── observation-notes/
 │   ├── review-notes/
