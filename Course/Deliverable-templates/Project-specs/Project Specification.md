@@ -160,15 +160,14 @@ You should expect to revisit these questions throughout the course as your under
 
 ---
 
-# Assessment and Grading
+# Assessment and Grading for project deliverables
 
 Your grade reflects both the **quality of the project outcome** and the **process through which your team develops it**.
 
-The course therefore evaluates participation, technical and strategic project work, teamwork, professional practice, iterative development, and individual understanding.
+Project deliverables includes technical and strategic project work, professional practice, iterative development, and final presentation.
 
 | Component | Weight |
 |---|---:|
-| **Participation** | **15%** |
 | **Project** | **65%** |
 | Requirements + Value Doc | 10% |
 | ADRs | 10% |
@@ -176,9 +175,6 @@ The course therefore evaluates participation, technical and strategic project wo
 | Strategy Tech Value Alignment | 10% |
 | Professionalism | 5% |
 | Final Presentation | 15% |
-| **Teamwork** | **15%** |
-| **Quiz 1** | **5%** |
-| **Total** | **100%** |
 
 ---
 
