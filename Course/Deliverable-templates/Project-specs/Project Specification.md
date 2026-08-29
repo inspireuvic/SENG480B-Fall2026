@@ -186,11 +186,13 @@ The project is the central experiential component of the course. It is assessed 
 ### Stakeholders + Value elicitation Plan — 10%
 
 > **Details:**  
-> see  [stakeholder value elicitation](../Requirements%20and%20values/stakeholder%20value%20elicitation%20plan.md)
+> See  [stakeholder value elicitation](../Requirements%20and%20values/stakeholder%20value%20elicitation%20plan.md)
 
-### Architecture Decision Records (ADRs) — 10%
+### Sprint Decision Records (SDRs) — 10%
 
 > **Details:**  
+> See [Sprint Decision Records](../Sprint%20Decision%20Records)
+>
 > _TBD._
 
 ### Sprint Planning + Demo + Retrospective — 15%
@@ -201,7 +203,7 @@ The project is the central experiential component of the course. It is assessed 
 ### Strategy–Technology–Value Alignment — 10%
 
 > **Details:**  
-> see [Requirements & Values alignment strategy](../Requirements%20and%20values/Requirement%20value%20alignment%20template.md)
+> See [Requirements & Values alignment strategy](../Requirements%20and%20values/Requirement%20value%20alignment%20template.md)
 
 
 ### Professionalism — 5%
