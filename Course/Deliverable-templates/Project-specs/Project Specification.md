@@ -186,7 +186,7 @@ The project is the central experiential component of the course. It is assessed 
 ### Requirements + Value Document — 10%
 
 > **Details:**  
-> See the [Requirements & Value Template](../Requirements and values
+> See the (../Requirements and values
 /Requirement template.md)
 
 ### Architecture Decision Records (ADRs) — 10%
