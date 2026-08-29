@@ -1,31 +1,40 @@
-# GitHub Requirement Issue Template
+# GitHub Issue Record Template for Epics, Features, tasks/User stories in Requirements
 
-Use one GitHub issue for each meaningful requirement. This will help you maintain revision records, track development progress, and support traceability, validation, and evaluation.
+Each identified value should be associated with at least one Epic. An epic may be decomposed into one or more features, and each feature may give rise to tasks or user stories. 
 
-Use the **Value ID(s)** defined in the **Stakeholder & Value Elicitation Plan** to connect requirements back to the stakeholder values, concerns, priorities, and supporting elicitation evidence recorded there.
+Create a GitHub issue for each meaningful Epic, Feature, User Story, or Task, using the appropriate issue category. Link related issues using GitHub’s parent–child relationship or sub-issue feature.
 
-If a field is not relevant, write **N/A** .
+Use the **Value ID(s)** defined in the **Stakeholder & Value Elicitation Plan** to connect each **Epic** to the stakeholder values, concerns, priorities, and supporting elicitation evidence recorded in that plan.
+
+Features, User Stories, and Tasks do not need to repeat the Value ID(s). Their relationship to stakeholder values is maintained through their link to the parent Epic.
+
+If a field is genuinely not relevant, write **N/A**.
+
 
 ## Requirement Template
 
+
 | Field | What to Record |
 |---|---|
-| **Category** | eg: Epic, Feature, Story |
-| **Requirement / Desired Outcome** | What should the product do, or what outcome is needed? This may be written as a requirement or user story. |
-| **Related Value ID(s)** | Reference the relevant value(s) from the Stakeholder & Value Elicitation Plan, e.g., `VAL-01`, `VAL-03`. If none is directly relevant, write `None`. |
-| **How the Value / Concern Influenced the Requirement** | Briefly explain what was added, changed, prioritized, limited, or decided because of the related stakeholder value or concern. |
-| **Acceptance Criteria** | What must be true for this requirement to be considered satisfied? |
-| **AI Contribution, if any** | What did AI generate, suggest, revise, implement, test, analyse, or evaluate? If no AI was used, write `None`. |
-| **AI Review / Verification** | How was the AI contribution checked before being accepted? Record whether it was **Accepted, Revised, or Rejected**. |
-| **Stakeholder Review / Feedback** | If applicable, who reviewed,  What feedback was received and what changed? |
-| **Notes / Decisions / Trade-offs** | Record only important assumptions, alternatives, scope decisions, or trade-offs. |
-| **Related Work** | Link related sub-issues, pull requests, tests, prototypes, or other evidence. |
+| **Category** | Select one: `Epic`, `Feature`, `User Story`, or `Task`. |
+| **Title** | A concise, outcome-oriented title. Example: `Users can revoke consent for data collection at any time`. |
+| **Parent Issue** | Link the immediate parent issue. Features must link to an Epic; User Stories and Tasks must link to a Feature, User Story, or Epic as appropriate. For a top-level Epic, write `N/A`. |
+| **Description / Desired Outcome** | Explain what the requirement means and what should be true when it is completed. Describe the expected user, system, or project outcome. |
+| **Related Value ID(s)** | **Epics only:** list the relevant Value ID(s) from the Stakeholder & Value Elicitation Plan, for example `VAL-01`, `VAL-03`. **Features, User Stories, and Tasks:** write `Inherited from parent issue`. |
+| **Rationale / Concerns / Influences** | Briefly explain why this item matters. For an Epic, explain how it responds to the linked value, stakeholder concern, or priority. For lower-level issues, explain how it contributes to the parent item. |
+| **Acceptance Criteria** | State what must be true for the issue to be considered complete. Use clear, observable, or testable conditions where possible. |
+| **AI Contribution, if any** | State whether AI was used and what it contributed, such as ideation, drafting, refinement, analysis, coding, testing, or review. If AI was not used, write `None`. |
+| **Stakeholder Review / Feedback** | If applicable, record who reviewed the item, the feedback received, and what changed as a result. If no review has occurred, write `Not yet reviewed`. |
+| **Notes / Decisions / Trade-offs** | Record important assumptions, value conflicts, alternatives considered, prioritization decisions, constraints, or unresolved questions. |
+| **Related Work** | Link relevant parent or child issues, pull requests, commits, tests, prototypes, design artefacts, research evidence, or supporting documentation. |
 
-
-
-Create a **sub-issue** when a piece of work needs its own owner, status, discussion, or pull request.
 
 ** Marking Notes:**
 
-- Each identified value should be associated with an epic. An epic may be decomposed into one or more features, and each feature may give rise to functional and non-functional requirements, which can then be further decomposed into one or more user stories
-- All required fields shown in the template are completed, with relevant links or supporting information provided where necessary.
+- Each identified stakeholder value should be associated with at least one Epic.
+- Each Epic must include the relevant Value ID(s).
+- Features, User Stories, and Tasks must link to their immediate parent issue and should record `Inherited from parent issue` rather than repeating Value ID(s).
+- The decomposition should make sense: each Feature should contribute to its Epic, and each User Story or Task should contribute to its parent Feature or Story.
+- All relevant fields in the template must be completed, with links or supporting information included where necessary.
+- Acceptance criteria must be sufficiently clear to determine whether the requirement has been addressed.
+- Important stakeholder feedback, use of AI, assumptions, value conflicts, and trade-offs should be recorded where relevant.
