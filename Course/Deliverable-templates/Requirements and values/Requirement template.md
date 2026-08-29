@@ -17,7 +17,7 @@ If a field is genuinely not relevant, write **N/A**.
 | Field | What to Record |
 |---|---|
 | **Category** | Select one: `Epic`, `Feature`, `User Story`, or `Task`. |
-| **Title** | A concise, outcome-oriented title. Example: `Users can revoke consent for data collection at any time`. |
+| **Title** | Brief description. Example: `Users can revoke consent for data collection at any time`. |
 | **Parent Issue** | Link the immediate parent issue. Features must link to an Epic; User Stories and Tasks must link to a Feature, User Story, or Epic as appropriate. For a top-level Epic, write `N/A`. |
 | **Description / Desired Outcome** | Explain what the requirement means and what should be true when it is completed. Describe the expected user, system, or project outcome. |
 | **Related Value ID(s)** | **Epics only:** list the relevant Value ID(s) from the Stakeholder & Value Elicitation Plan, for example `VAL-01`, `VAL-03`. **Features, User Stories, and Tasks:** write `Inherited from parent issue`. |
