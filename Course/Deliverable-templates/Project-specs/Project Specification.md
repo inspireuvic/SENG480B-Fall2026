@@ -178,14 +178,6 @@ Project deliverables includes technical and strategic project work, professional
 
 ---
 
-## Participation — 15%
-
-Participation reflects your engagement with the learning activities and the broader project environment.
-
-> **Details:**  
-> _Add participation expectations, attendance requirements, workshop participation, in-class activities, stakeholder engagement, or other criteria here._
-
----
 
 ## Project — 65%
 
@@ -217,28 +209,6 @@ The project is the central experiential component of the course. It is assessed 
 > _TBD_
 
 ### Final Presentation — 15%
-
-> **Details:**  
-> _TBD._
-
----
-
-## Teamwork — 15%
-
-Teamwork is explicitly assessed because effective collaboration is a core software engineering competency.
-
-Assessment may consider how well team members communicate, coordinate, contribute, review one another's work, respond to disagreements, share knowledge, and take responsibility for collective outcomes.
-
-Peer feedback will be used as one source of evidence when evaluating teamwork.
-
-> **Details:**  
-> _TBD._
-
----
-
-## Quiz 1 and 2 — 5%
-
-The quizzes assess individual understanding of a foundational concept in the courses.
 
 > **Details:**  
 > _TBD._
