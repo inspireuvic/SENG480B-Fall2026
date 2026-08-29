@@ -27,5 +27,5 @@ Create a **sub-issue** when a piece of work needs its own owner, status, discuss
 
 ** Marking Notes:**
 
-- All the identified values are turned into requirements and entered as GitHub issues eg: epics, functional or nonfunctional requirements, user stories
+- Each identified value should be associated with an epic. An epic may be decomposed into one or more features, and each feature may give rise to functional and non-functional requirements, which can then be further decomposed into one or more user stories
 - All required fields shown in the template are completed, with relevant links or supporting information provided where necessary.
