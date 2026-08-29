@@ -1,6 +1,6 @@
 # SENG480B Project Specification
 
-## Course Context
+## Project Context
 
 This course is a **community-engaging, project-based experiential course**. You will work in a team on a real-world, socially meaningful project with authentic stakeholders, constraints, uncertainty, and changing needs.
 
@@ -62,7 +62,7 @@ Your team remains responsible for the work you submit, including work produced w
 ---
 
 
-## Course Structure of Iterative Development
+## Project Structure of Iterative Development
 
 Your project will be completed iteratively across a series of 3 sprints.
 
