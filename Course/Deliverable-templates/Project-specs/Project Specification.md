@@ -183,10 +183,10 @@ Project deliverables includes technical and strategic project work, professional
 
 The project is the central experiential component of the course. It is assessed through several artifacts and activities that capture both what your team produces and how your thinking develops throughout the term.
 
-### Requirements + Value Document — 10%
+### Stakeholders + Value alignment Plan — 10%
 
 > **Details:**  
-> see  [Requirements and values](../requirement-template.md)
+> see  [Requirements and values](../../requirement-template.md)
 
 ### Architecture Decision Records (ADRs) — 10%
 
