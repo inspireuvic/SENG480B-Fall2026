@@ -109,7 +109,8 @@ Participation reflects your engagement with the learning activities and the broa
 
 ## Project — 65%
 
-Detail breakdown is provided under **project specifications**
+Detail breakdown is provided under **/Deliverable-templates
+/Project-specs/project specifications**
 
 ---
 
