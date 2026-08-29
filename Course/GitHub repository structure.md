@@ -17,10 +17,8 @@ SENG480B-Fall2026-TeamA/
 │   ├── review-notes/
 │   └── feedback-notes/
 │
-└── other-related/
+└── other-related(if any)/
     ├── references/
-    ├── meeting-materials/
-    ├── templates/
     └── archived-materials/
 
 - **deliverables/** — Final and working project deliverables submitted by Team A.
