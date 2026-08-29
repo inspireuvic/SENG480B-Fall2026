@@ -29,7 +29,7 @@ If a field is genuinely not relevant, write **N/A**.
 | **Related Work** | Link relevant parent or child issues, pull requests, commits, tests, prototypes, design artefacts, research evidence, or supporting documentation. |
 
 
-##Marking Notes:##
+** Marking Notes: **
 
 - Each identified stakeholder value should be associated with at least one Epic.
 - Each Epic must include the relevant Value ID(s).
