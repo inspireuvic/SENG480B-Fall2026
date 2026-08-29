@@ -186,7 +186,7 @@ The project is the central experiential component of the course. It is assessed 
 ### Stakeholders + Value alignment Plan — 10%
 
 > **Details:**  
-> see  [Requirements and values](../../stakeholder value elicitation plan.md)
+> see  [Requirements and values](../Requirements%20and%20values/stakeholder%20value%20elicitation%20plan.md)
 
 ### Architecture Decision Records (ADRs) — 10%
 
