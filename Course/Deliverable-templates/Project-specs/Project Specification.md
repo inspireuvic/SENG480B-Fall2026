@@ -170,7 +170,7 @@ Project deliverables includes technical and strategic project work, professional
 |---|---:|
 | **Project** | **65%** |
 | Requirements + Value Doc | 10% |
-| ADRs | 10% |
+| SDRs | 10% |
 | Sprint Planning + Demo + Retro | 15% |
 | Strategy Tech Value Alignment | 10% |
 | Professionalism | 5% |
