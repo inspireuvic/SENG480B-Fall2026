@@ -6,7 +6,7 @@
 
 ## Purpose
 
-This  plan helps your team identify relevant stakeholders and plan how you will learn what matters to them before and during product development.
+This  plan helps your team identify relevant stakeholders and plan how you will learn what matters to them.
 
 **Stakeholder values** are things that stakeholders consider important, desirable, worth protecting, or worth achieving in relation to how a software system affects their lives, work, experiences, decisions, communities, and the environment.
 
