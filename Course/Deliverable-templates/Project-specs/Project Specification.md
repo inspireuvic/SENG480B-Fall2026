@@ -192,18 +192,17 @@ The project is the central experiential component of the course. It is assessed 
 
 > **Details:**  
 > See [Sprint Decision Records](../Sprint%20Decision%20Records)
->
-> _TBD._
+
 
 ### Sprint Planning + Demo + Retrospective — 15%
 
 > **Details:**  
-> _TBD._
+> See [Sprint Planning Demo and Retros](../Sprint-planning-and-retros)
 
 ### Strategy–Technology–Value Alignment — 10%
 
 > **Details:**  
-> See [Requirements & Values alignment strategy](../Requirements%20and%20values/Requirement%20value%20alignment%20template.md)
+> See [Technology & Values alignment strategy](../Requirements%20and%20values/Requirement%20value%20alignment%20template.md)
 
 
 ### Professionalism — 5%
