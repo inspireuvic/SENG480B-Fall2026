@@ -56,6 +56,7 @@ In cases where the project team is struggling with certain technical competencie
 Your project should have a centralized documentation hub that is regularly updated. This includes:   
 ● Maintaining a clear file structure in your repository.   
 ● Using version control effectively.
+
 ● Keeping documentation accessible to both technical and non-technical stakeholders (e.g. sharing the repository and avoiding jargon where possible).
 
 ● Commit all supportive documents including the stakeholder meeting notes and elicitation notes, keep all the issue types created and updated
