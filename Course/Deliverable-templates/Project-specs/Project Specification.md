@@ -183,7 +183,7 @@ Project deliverables includes technical and strategic project work, professional
 
 The project is the central experiential component of the course. It is assessed through several artifacts and activities that capture both what your team produces and how your thinking develops throughout the term.
 
-### Stakeholders + Value alignment Plan — 10%
+### Stakeholders + Value elicitation Plan — 10%
 
 > **Details:**  
 > see  [stakeholder value elicitation](../Requirements%20and%20values/stakeholder%20value%20elicitation%20plan.md)
@@ -201,7 +201,7 @@ The project is the central experiential component of the course. It is assessed 
 ### Strategy–Technology–Value Alignment — 10%
 
 > **Details:**  
-> see [Requirements and values](../Requirements%20and%20values/Requirement%20value%20alignment%20template.md)
+> see [Requirements and values alignment](../Requirements%20and%20values/Requirement%20value%20alignment%20template.md)
 
 
 ### Professionalism — 5%
