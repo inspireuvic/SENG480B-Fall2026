@@ -65,27 +65,18 @@ The **Value / Brief Description** should be short but specific enough to identif
 
 For example:
 
-> `VAL-01 — Privacy: control over who can access personal information`
+> `VAL-01 — Autonomy: control over who can access personal information`
 
-Avoid listing only a generic word such as *privacy* or *transparency* without explaining what it means in the context of the project.
+Avoid listing only a generic word such as *Autonomy* or *privacy* without explaining what it means in the context of the project.
 
 If there is no current tension or trade-off, write **N/A**.
 
 If a planned review has not yet happened, the review outcome may be marked **Pending**.
 
-## 4. Generate GitHub Issues for Requirements
+## 4. Value Related Requirement Stack
 
-When a stakeholder need, concern, or value leads to a product requirement, create or update the corresponding GitHub requirement issue.
+For each identified stakeholder value, create one or more corresponding **Epic** issues. Decompose each Epic into the necessary **Features**, and then into **User Stories** and/or **Tasks**. Record each item as a GitHub issue using the template in the **Requirement Template**.
 
-In the issue, reference the relevant **Value ID(s)** from this document rather than repeating the full value description.
-
-Example:
-
-> **Related Value ID(s):** `VAL-01`, `VAL-03`
-
-A requirement may relate to more than one value. If there is no direct stakeholder value or concern associated with a technical requirement, write:
-
-> **Related Value ID(s): None**
 
 **Marking Notes:**
 
