@@ -1,6 +1,6 @@
 # GitHub Issue Record Template for Epics, Features, tasks/User stories in Requirements
 
-Each identified value should be associated with at least one Epic. An epic may be decomposed into one or more features, and each feature may give rise to tasks or user stories. 
+Each identified **value** should be associated with at least one **Epic**. An epic may be decomposed into one or more **features**, and each feature may give rise to **tasks or user stories**. 
 
 Create a GitHub issue for each meaningful Epic, Feature, User Story, or Task, using the appropriate issue category. Link related issues using GitHub’s parent–child relationship or sub-issue feature.
 
