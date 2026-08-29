@@ -201,7 +201,8 @@ The project is the central experiential component of the course. It is assessed 
 ### Strategy–Technology–Value Alignment — 10%
 
 > **Details:**  
-> _TBD._
+> see [Requirements and values](../Requirements%20and%20values/Requirement%20value%20alignment%20template.md)
+
 
 ### Professionalism — 5%
 
