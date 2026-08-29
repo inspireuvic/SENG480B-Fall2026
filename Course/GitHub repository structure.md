@@ -21,6 +21,6 @@ SENG480B-Fall2026-TeamA/
     ├── references/
     └── archived-materials/
 
-- **deliverables/** — Final and working project deliverables submitted by Team A.
+- **deliverables/** — Final and working project deliverables submitted by Team A at required milestones.
 - **supporting-documents/** — Evidence and notes used to inform stakeholder engagement, observations, reviews, and decisions.
-- **other-related/** — Reference material, meeting records, templates, and archived content that support the project.
+- **other-related/** — Anything that you think important and relevant.
