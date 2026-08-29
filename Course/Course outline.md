@@ -109,9 +109,7 @@ Participation reflects your engagement with the learning activities and the broa
 
 ## Project — 65%
 
-Detail breakdown is provided under **/Deliverable-templates
-/Project-specs/project specifications**
-
+Detail breakdown is provided under  [Project-specs](/Deliverable-templates/Project-specs/project%20specifications)
 ---
 
 ## Teamwork — 15%
