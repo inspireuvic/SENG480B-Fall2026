@@ -1,6 +1,6 @@
 # SENG480B Project Specification
 
-## Project Context
+## Course Context
 
 This course is a **community-engaging, project-based experiential course**. You will work in a team on a real-world, socially meaningful project with authentic stakeholders, constraints, uncertainty, and changing needs.
 
@@ -61,24 +61,6 @@ Your team remains responsible for the work you submit, including work produced w
 
 ---
 
-
-## Project Structure of Iterative Development
-
-Your project will be completed iteratively across a series of 3 sprints.
-
-Each sprint should involve:
-
-1. **Planning** what the team intends to accomplish with the help of your Sprint Planning documents
-2. **Executing** the planned technical and project work;
-3. **Reviewing and demonstrating** what was produced; and
-4. **Reflecting** on what worked, what did not, how the team worked together, and how AI contributed in the form of a Sprint Retrospective.
-
-Sprint planning and retrospectives should be treated seriously. They are opportunities to make decisions deliberately, assess whether those decisions worked, and adapt the team's approach over time.
-
-> **Sprint structure:**  
-> Your team must use the provided sprint planning and retrospective documents each sprint. 
-
----
 
 
 ## Teamwork Is Part of the Technical Work
@@ -160,50 +142,175 @@ You should expect to revisit these questions throughout the course as your under
 
 ---
 
-# Assessment and Grading for project deliverables
+# Course Structure and Sprint Rhythm
+
+The course is organized around a **PREP phase, four development sprints, and a final WRAP-UP phase**. Each sprint has its own learning goals and project outcomes, but teams follow a consistent sprint rhythm throughout the term.
+
+### Course Structure
+
+* **PREP:** Course and project introductions, foundational concepts, and initial stakeholder engagement.
+* **Sprint 1:** Project and stakeholder understanding, scope, and requirements.
+* **Sprint 2:** AI and values in technology development, including technology-value alignment and initial prototyping.
+* **Sprint 3:** System architecture, continued development, and iterative validation and refinement with stakeholders.
+* **Sprint 4:** Further stakeholder validation and iteration toward a complete MVP.
+* **WRAP-UP:** Polishing the MVP, documentation and handoff, and final presentation.
+
+---
+
+### The Sprint Rhythm
+
+Each development sprint follows the same general cycle.
+
+#### 1. Sprint Planning
+
+Each sprint begins with an **in-class Sprint Planning session**. Use the sprint planning template for this activity, as you must submit your sprint plans. 
+
+Teams identify what they intend to accomplish during the sprint, establish priorities, identify key tasks and responsibilities, and determine how the work contributes to the larger project goals.
+
+#### 2. Develop and Maintain the Sprint Decision Record (SDR)
+
+Throughout the sprint, teams maintain a single **Sprint Decision Record (SDR)**.
+
+The SDR is a living document that captures important decisions as the project develops, rather than asking teams to reconstruct those decisions at the end of the sprint.
+
+The SDR contains three parts:
+
+###### Part 1: Architectural Decisions
+
+Records significant technical and architectural decisions made during the sprint, including the reasoning behind those decisions, alternatives considered, and their implications. This mirrors common industry practice, where practitioners often maintain an Architectural Decision Record (ADR). In this course, it is slightly simplified in consideration of your workload.
+
+###### Part 2: Sprint Decisions Regarding AI Usage
+
+Records how generative or agentic AI contributed to the sprint, including decisions about:
+
+* where and why AI was used;
+* the level of autonomy given to AI;
+* how AI outputs were evaluated or validated;
+* what role humans played in reviewing or modifying AI-generated work; and
+* whether the team considers the use of AI appropriate in hindsight.
+
+**Parts 1 and 2 should be maintained throughout the sprint as decisions occur.**
+
+###### Part 3: Sprint Retrospective
+
+The final section of the SDR contains the questions that guide the team's **Sprint Retrospective**.
+
+Unlike Parts 1 and 2, **Part 3 should only be completed at the end of the sprint during the in-class retrospective session**.
+
+This structure allows teams to submit **one complete SDR at the end of each sprint**, rather than several separate smaller deliverables.
+
+#### 3. Maintain and Refine the Tech-Value Alignment Document
+
+Alongside the SDR, teams maintain a **Tech-Value Alignment Document across the project**.
+
+As teams learn more about their stakeholders, project context, potential impacts, and the values embedded in or affected by their technology, they are expected to **revisit and update this document**.
+
+The Tech-Value Alignment Document should evolve as the team's understanding evolves. For example, it may be updated in response to:
+
+* new stakeholder feedback;
+* improved understanding of stakeholder or community values;
+* design or architectural decisions;
+* technical constraints and trade-offs;
+* unexpected impacts identified during development; and
+* lessons learned through implementation and validation.
+
+The goal is not to identify values once at the beginning of the project and treat them as fixed. Instead, teams should continuously consider:
+
+> **Are the technical decisions we are making still aligned with the values, needs, and priorities we are trying to support?**
+
+#### 4. Sprint Demo
+
+Near the end of each sprint, teams complete a **Sprint Demo** showing their current progress.
+
+The demo provides an opportunity to:
+
+* communicate what has been developed;
+* receive feedback;
+* test assumptions;
+* validate progress with stakeholders where appropriate; and
+* identify issues or priorities that should carry forward into the next sprint.
+
+#### 5. In-Class Sprint Retrospective
+
+At the end of each sprint, teams complete an **in-class Sprint Retrospective**.
+
+The questions guiding the retrospective are located in **Part 3 of the SDR**. During this session, teams reflect on how the sprint went, including their development process, teamwork, decision-making, and use of AI.
+
+The distinction is important:
+
+* **SDR Parts 1 and 2 are maintained throughout the sprint.**
+* **SDR Part 3 is completed only at the end of the sprint during the in-class retrospective.**
+* **The complete SDR is then submitted as a single document at the end of the sprint.**
+
+#### 6. Begin the Next Sprint
+
+The outcomes of the demo and retrospective, together with stakeholder feedback, the completed SDR, and the evolving Tech-Value Alignment Document, feed into the next **in-class Sprint Planning session**.
+
+---
+
+#### In Short
+
+**In-class Sprint Plan → Develop + Maintain SDR Parts 1 & 2 + Update Tech-Value Alignment → Sprint Demo → In-class Retro / Complete SDR Part 3 → Submit Full SDR → Begin Next Sprint**
+
+This rhythm repeats throughout the course, creating a continuous cycle of **planning, development, decision documentation, stakeholder engagement, value reflection, feedback, and improvement**.
+
+
+---
+
+# Assessment and Grading
 
 Your grade reflects both the **quality of the project outcome** and the **process through which your team develops it**.
 
-Project deliverables includes technical and strategic project work, professional practice, iterative development, and final presentation.
+The course therefore evaluates participation, technical and strategic project work, teamwork, professional practice, iterative development, and individual understanding.
 
 | Component | Weight |
 |---|---:|
+| **Participation** | **15%** |
 | **Project** | **65%** |
 | Requirements + Value Doc | 10% |
-| SDRs | 10% |
+| ADRs | 10% |
 | Sprint Planning + Demo + Retro | 15% |
 | Strategy Tech Value Alignment | 10% |
 | Professionalism | 5% |
 | Final Presentation | 15% |
+| **Teamwork** | **15%** |
+| **Quiz 1** | **5%** |
+| **Total** | **100%** |
 
 ---
 
+## Participation — 15%
+
+Participation reflects your engagement with the learning activities and the broader project environment.
+
+> **Details:**  
+> _TBD._
+
+---
 
 ## Project — 65%
 
 The project is the central experiential component of the course. It is assessed through several artifacts and activities that capture both what your team produces and how your thinking develops throughout the term.
 
-### Stakeholders + Value elicitation Plan — 10%
+### Requirements + Value Document — 10%
 
 > **Details:**  
-> See  [stakeholder value elicitation](../Requirements%20and%20values/stakeholder%20value%20elicitation%20plan.md)
+> _TBD._
 
-### Sprint Decision Records (SDRs) — 10%
+### Architecture Decision Records (ADRs) — 10%
 
 > **Details:**  
-> See [Sprint Decision Records](../Sprint%20Decision%20Records)
-
+> _TBD._
 
 ### Sprint Planning + Demo + Retrospective — 15%
 
 > **Details:**  
-> See [Sprint Planning Demo and Retros](../Sprint-planning-and-retros)
+> _TBD._
 
 ### Strategy–Technology–Value Alignment — 10%
 
 > **Details:**  
-> See [Technology & Values alignment strategy](../Requirements%20and%20values/Requirement%20value%20alignment%20template.md)
-
+> _TBD._
 
 ### Professionalism — 5%
 
@@ -211,6 +318,28 @@ The project is the central experiential component of the course. It is assessed 
 > _TBD_
 
 ### Final Presentation — 15%
+
+> **Details:**  
+> _TBD._
+
+---
+
+## Teamwork — 15%
+
+Teamwork is explicitly assessed because effective collaboration is a core software engineering competency.
+
+Assessment may consider how well team members communicate, coordinate, contribute, review one another's work, respond to disagreements, share knowledge, and take responsibility for collective outcomes.
+
+Peer feedback will be used as one source of evidence when evaluating teamwork.
+
+> **Details:**  
+> _TBD._
+
+---
+
+## Quiz 1 and 2 — 5%
+
+The quizzes assess individual understanding of a foundational concept in the courses.
 
 > **Details:**  
 > _TBD._
@@ -233,7 +362,7 @@ If AI contributes to an artifact, your team should be able to explain:
 You may be asked to explain or defend AI-assisted work during project reviews, demos, presentations, or other course activities.
 
 > **Documentation expectations:**  
-> _This understanding should be clear from your regular completion of sprint documentation, ADRs, and the tech-value alignment document._
+> _This understanding should be clear from your regular completion of sprint decision records (SDRs)._
 
 ---
 
