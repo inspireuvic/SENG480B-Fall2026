@@ -334,8 +334,7 @@ This includes the quality of the team's:
 - understanding and framing of the project problem;
 - stakeholder identification and engagement;
 - requirements and requirements elicitation;
-- identification and analysis of relevant stakeholder and societal values; and
-- translation of stakeholder needs and values into meaningful software requirements.
+- identification and analysis of relevant stakeholder and societal values
 
 The Requirements + Values documentation should evolve as the team's understanding of the project and its stakeholders develops.
 
