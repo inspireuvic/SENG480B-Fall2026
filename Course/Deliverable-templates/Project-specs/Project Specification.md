@@ -272,92 +272,206 @@ The outcomes of the demo and retrospective, together with stakeholder feedback, 
 
 # Assessment and Grading
 
-Your grade reflects both the **quality of the project outcome** and the **process through which your team develops it**.
+SENG 480B is a **project-based, experiential course**. Your grade reflects not only the quality of the technology your team develops, but also **how you develop it**: how you engage with stakeholders, make and justify decisions, collaborate with your team, use AI critically, respond to feedback, and reflect on your work.
 
-The course therefore evaluates participation, technical and strategic project work, teamwork, professional practice, iterative development, and individual understanding.
+Assessment therefore emphasizes both **project outcomes and professional process**.
+
+## Grade Breakdown
 
 | Component | Weight |
 |---|---:|
-| **Participation** | **15%** |
+| **Participation in Class** | **15%** |
 | **Project** | **65%** |
-| Requirements + Value Doc | 10% |
-| ADRs | 10% |
-| Sprint Planning + Demo + Retro | 15% |
-| Strategy Tech Value Alignment | 10% |
-| Professionalism | 5% |
-| Final Presentation | 15% |
-| **Teamwork** | **15%** |
-| **Quiz 1** | **5%** |
+| **Final Presentation and Demo** | **15%** |
+| **Quiz 1 and Quiz 2** | **5%** |
 | **Total** | **100%** |
 
----
+### Project Grade Breakdown
 
-## Participation — 15%
-
-Participation reflects your engagement with the learning activities and the broader project environment.
-
-> **Details:**  
-> _TBD._
-
----
-
-## Project — 65%
-
-The project is the central experiential component of the course. It is assessed through several artifacts and activities that capture both what your team produces and how your thinking develops throughout the term.
-
-### Requirements + Value Document — 10%
-
-> **Details:**  
-> _TBD._
-
-### Architecture Decision Records (ADRs) — 10%
-
-> **Details:**  
-> _TBD._
-
-### Sprint Planning + Demo + Retrospective — 15%
-
-> **Details:**  
-> _TBD._
-
-### Strategy–Technology–Value Alignment — 10%
-
-> **Details:**  
-> _TBD._
-
-### Professionalism — 5%
-
-> **Details:**  
-> _TBD_
-
-### Final Presentation — 15%
-
-> **Details:**  
-> _TBD._
+| Project Component | Weight |
+|---|---:|
+| Project Specification: Requirements + Values | 10% |
+| Bi-Weekly Sprints | 25% |
+| Strategy for Technology-Value Alignment | 10% |
+| Contribution to and Assessment of Teamwork | 15% |
+| Professionalism | 5% |
+| **Total Project Grade** | **65%** |
 
 ---
 
-## Teamwork — 15%
+## Participation in Class — 15%
 
-Teamwork is explicitly assessed because effective collaboration is a core software engineering competency.
+This is an experiential course in which a significant portion of learning happens through **discussion, reflection, project activities, collaboration, and engagement with others**.
 
-Assessment may consider how well team members communicate, coordinate, contribute, review one another's work, respond to disagreements, share knowledge, and take responsibility for collective outcomes.
+Participation is assessed throughout the term and considers the quality and consistency of your engagement with the learning environment.
 
-Peer feedback will be used as one source of evidence when evaluating teamwork.
+This includes:
 
-> **Details:**  
-> _TBD._
+- attending class and arriving on time;
+- completing assigned in-class activities, reports, and presentations;
+- participating constructively in discussions and group activities;
+- preparing for and contributing to discussions of course readings;
+- asking questions and sharing ideas;
+- responding thoughtfully to the perspectives of others;
+- connecting course concepts and readings to your project experiences; and
+- contributing to the learning of your peers.
+
+**Attendance alone does not constitute meaningful participation.** Students are expected to come prepared and actively engage with the course activities, discussions, and reflections.
 
 ---
 
-## Quiz 1 and 2 — 5%
+# Project — 65%
 
-The quizzes assess individual understanding of a foundational concept in the courses.
+The project is the central experiential component of the course. Teams work with real community and/or industry stakeholders to understand a meaningful problem and iteratively design, develop, evaluate, and refine a technological solution.
 
-> **Details:**  
-> _TBD._
+Assessment considers both **what the team produces** and the **quality of the reasoning, decision-making, stakeholder engagement, collaboration, and professional practice through which it is produced**.
+
+## Project Specification: Requirements + Values — 10%
+
+Teams will develop a project specification grounded in their understanding of the problem, stakeholders, and broader project context.
+
+This includes the quality of the team's:
+
+- understanding and framing of the project problem;
+- stakeholder identification and engagement;
+- requirements and requirements elicitation;
+- identification and analysis of relevant stakeholder and societal values; and
+- translation of stakeholder needs and values into meaningful software requirements.
+
+The Requirements + Values documentation should evolve as the team's understanding of the project and its stakeholders develops.
 
 ---
+
+## Bi-Weekly Sprints — 25%
+
+Project development takes place through a series of structured sprints. Each sprint evaluates the team's ability to **plan, develop, make and document decisions, demonstrate progress, incorporate feedback, and reflect on its process**.
+
+Sprint assessment includes:
+
+- **Sprint Planning**
+- **Sprint Decision Record (SDR)**
+- **Sprint Demo**
+- **Sprint Retrospective**
+
+Sprint Planning and Sprint Retrospectives are completed **in class**.
+
+### Sprint Decision Record (SDR)
+
+Throughout each sprint, teams maintain a single **Sprint Decision Record (SDR)** containing three parts:
+
+1. **Architectural Decisions**  
+   Significant technical and architectural decisions made during the sprint, including alternatives considered and the reasoning behind the team's choices.
+
+2. **Decisions Regarding AI Usage**  
+   Significant decisions about the team's use of generative and/or agentic AI, including where AI was used, what role it played, how its outputs were evaluated and validated, and whether its use added value.
+
+3. **Sprint Retrospective**  
+   The questions used to guide the team's end-of-sprint retrospective.
+
+**Parts 1 and 2 should be maintained throughout the sprint as decisions occur. Part 3 is completed only during the in-class retrospective at the end of the sprint.**
+
+The complete SDR is then submitted as **one consolidated sprint document**, rather than requiring separate submissions for architectural decisions, AI decisions, and the retrospective.
+
+Teams are assessed not simply on whether AI was used, but on the quality of their **critical engagement with AI**. Teams should be able to explain what AI contributed, what they accepted, modified, or rejected, how outputs were validated, and why using or not using AI was appropriate for the task.
+
+---
+
+## Strategy for Technology-Value Alignment — 10%
+
+Teams maintain and progressively refine a **Tech-Value Alignment Document** throughout the project.
+
+The purpose of this document is to connect:
+
+**Stakeholder and societal values → Software requirements → Technical and design decisions**
+
+As teams learn more about their stakeholders, project context, technical constraints, and the impacts of the technology they are developing, they are expected to revisit and update their understanding of this alignment.
+
+Assessment considers the quality of the information, reasoning, and decisions captured in the document, including how effectively the team:
+
+- identifies relevant stakeholder and societal values;
+- translates those values into requirements and design considerations;
+- connects technical decisions to intended project values;
+- identifies tensions or trade-offs between competing values;
+- incorporates stakeholder feedback and new information; and
+- revises its strategy as its understanding develops.
+
+The goal is not to identify values once and treat them as fixed. The Tech-Value Alignment Document should demonstrate how the team's understanding and decision-making **develop across the project**.
+
+---
+
+## Contribution to and Assessment of Teamwork — 15%
+
+Effective teamwork is a core software engineering competency and is explicitly assessed in this course.
+
+Assessment considers the extent to which each student **actively and constructively contributes to the functioning and success of their team**.
+
+This includes:
+
+- participating in team activities and decision-making;
+- taking responsibility for assigned work;
+- completing agreed-upon tasks reliably;
+- communicating effectively with teammates;
+- collaborating and sharing knowledge;
+- supporting other team members;
+- contributing to team discussions and processes;
+- helping resolve problems or disagreements constructively; and
+- contributing consistently to project activities.
+
+### Peer Reviews
+
+At the end of **each sprint**, students will complete a peer review of:
+
+- each of their teammates; and
+- themselves.
+
+Peer reviews provide evidence of individual contributions to teamwork and consider factors such as communication, reliability, completion of assigned work, participation in sprint and project activities, and contribution to team discussions.
+
+**The quality and thoughtfulness of the peer review itself is also assessed.**
+
+---
+
+## Professionalism — 5%
+
+Because teams work with real stakeholders, students are expected to demonstrate professional behaviour throughout the project.
+
+Professionalism includes:
+
+- reliability and accountability for commitments;
+- preparation for stakeholder and client meetings;
+- clear and appropriate communication;
+- responsiveness to stakeholder needs;
+- respect toward teammates, mentors, partners, and other stakeholders;
+- relationship building;
+- appropriate professional judgement; and
+- taking responsibility for the quality and consequences of submitted work.
+
+Professionalism is assessed through **observable behaviour across the term**, rather than through a single deliverable.
+
+---
+
+# Final Presentation and Demo — 15%
+
+The course concludes with a **conference-style final presentation and demonstration** of the project.
+
+Teams will communicate their project, development process, and outcomes to an audience that may include community partners, industry collaborators, instructors, and other UVic students.
+
+Assessment will consider the team's ability to:
+
+- clearly explain the problem and its significance;
+- communicate the needs and values that informed the project;
+- demonstrate the developed technology effectively;
+- explain important technical and design decisions;
+- communicate how stakeholder feedback influenced the project;
+- reflect on the development process and project outcomes; and
+- communicate technical material effectively to both technical and non-technical audiences.
+
+---
+
+# Quiz 1 and Quiz 2 — 5%
+
+There are two individual quizzes, worth **2.5% each**.
+
+The quizzes assess individual understanding of foundational course readings and concepts and provide evidence of each student's individual preparation for the experiential and project-based work in the course.
 
 # Accountability for AI-Assisted Work
 
