@@ -6,12 +6,11 @@ This course is a **community-engaging, project-based experiential course**. You 
 
 The goal is not only to produce a strong technical outcome. You will also learn how to:
 
-- work effectively in a cross-functional team;
-- make decisions when information is incomplete;
+- work effectively in a development team;
+- make decisions when information is incomplete or ambiguous;
 - communicate with stakeholders;
-- connect technical choices to user and organizational value;
+- connect technical choices to user and organizational and societal values;
 - respond to feedback and changing priorities;
-- evaluate trade-offs;
 - use generative and agentic AI responsibly within a software development workflow; and
 - take professional responsibility for the quality and impact of your team's work.
 
