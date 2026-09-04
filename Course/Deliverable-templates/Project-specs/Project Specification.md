@@ -248,11 +248,24 @@ The outcomes of the demo and retrospective, together with stakeholder feedback, 
 
 ---
 
-#### In Short
+## Sprint Rhythm at a Glance
 
-**In-class Sprint Plan → Develop + Maintain SDR Parts 1 & 2 + Update Tech-Value Alignment → Sprint Demo → In-class Retro / Complete SDR Part 3 → Submit Full SDR → Begin Next Sprint**
+| Stage                               | When                 | What Happens                                                                                                                                                           | Main Artifact / Output                                                        |
+| ----------------------------------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **Sprint Planning**                 | Start of sprint      | Completed **in class**. Teams define sprint goals, priorities, tasks, responsibilities, and planned use of AI.                                                         | Sprint Plan                                                                   |
+| **Development + Decision Tracking** | Throughout sprint    | Teams develop the project and continuously document important technical and AI-related decisions as they occur.                                                        | **SDR Part 1:** Architectural Decisions<br>**SDR Part 2:** AI Usage Decisions |
+| **Tech-Value Alignment**            | Throughout sprint    | Teams revisit and update the Tech-Value Alignment Document as their understanding of stakeholder values, project impacts, and technology-value relationships develops. | Updated Tech-Value Alignment Document                                         |
+| **Sprint Demo**                     | Near end of sprint   | Teams demonstrate progress, gather feedback, validate assumptions, and identify changes or priorities for the next iteration.                                          | Sprint Demo                                                                   |
+| **Sprint Retrospective**            | End of sprint        | Completed **in class**. Teams answer the retrospective questions located at the end of the SDR.                                                                        | **SDR Part 3:** Sprint Retrospective                                          |
+| **Sprint Submission**               | End of sprint        | Teams submit the completed SDR as **one combined document**, rather than submitting multiple smaller artifacts.                                                        | Complete SDR: Parts 1 + 2 + 3                                                 |
+| **Next Sprint Planning**            | Start of next sprint | Feedback from the demo, retrospective, stakeholder interactions, SDR, and Tech-Value Alignment Document informs the next sprint.                                       | Next Sprint Plan                                                              |
 
-This rhythm repeats throughout the course, creating a continuous cycle of **planning, development, decision documentation, stakeholder engagement, value reflection, feedback, and improvement**.
+###### Do not forget this cycle! It will keep you on track! 
+
+**Plan → Develop + Maintain SDR Parts 1 & 2 + Update Tech-Value Alignment → Demo → In-Class Retro / Complete SDR Part 3 → Submit Full SDR → Plan Next Sprint**
+
+
+
 
 
 ---
