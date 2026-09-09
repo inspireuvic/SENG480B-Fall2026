@@ -172,13 +172,15 @@ Throughout the sprint, teams maintain a single **Sprint Decision Record (SDR)**.
 
 The SDR is a living document that captures important decisions as the project develops, rather than asking teams to reconstruct those decisions at the end of the sprint.
 
-The SDR contains three parts:
+The SDR contains four parts:
 
 ###### Part 1: Architectural Decisions
 
 Records significant technical and architectural decisions made during the sprint, including the reasoning behind those decisions, alternatives considered, and their implications. This mirrors common industry practice, where practitioners often maintain an Architectural Decision Record (ADR). In this course, it is slightly simplified in consideration of your workload.
 
-###### Part 2: Sprint Decisions Regarding AI Usage
+###### Part 2: Documenting a Major Decision
+
+###### Part 3: Sprint Decisions Regarding AI Usage
 
 Records how generative or agentic AI contributed to the sprint, including decisions about:
 
@@ -188,13 +190,13 @@ Records how generative or agentic AI contributed to the sprint, including decisi
 * what role humans played in reviewing or modifying AI-generated work; and
 * whether the team considers the use of AI appropriate in hindsight.
 
-**Parts 1 and 2 should be maintained throughout the sprint as decisions occur.**
+**Parts 1, 2, 3 should be maintained throughout the sprint as decisions occur.**
 
-###### Part 3: Sprint Retrospective
+###### Part 4: Sprint Retrospective
 
 The final section of the SDR contains the questions that guide the team's **Sprint Retrospective**.
 
-Unlike Parts 1 and 2, **Part 3 should only be completed at the end of the sprint during the in-class retrospective session**.
+Unlike Parts 1 and 2, **Part 4 should only be completed at the end of the sprint during the in-class retrospective session**.
 
 This structure allows teams to submit **one complete SDR at the end of each sprint**, rather than several separate smaller deliverables.
 
@@ -219,7 +221,7 @@ The goal is not to identify values once at the beginning of the project and trea
 
 #### 4. Sprint Demo
 
-Near the end of each sprint, teams complete a **Sprint Demo** showing their current progress.
+Near the end of each sprint, teams complete a **Sprint Demo** showing their current progress. This is in the form of an in class presentation. 
 
 The demo provides an opportunity to:
 
@@ -233,12 +235,12 @@ The demo provides an opportunity to:
 
 At the end of each sprint, teams complete an **in-class Sprint Retrospective**.
 
-The questions guiding the retrospective are located in **Part 3 of the SDR**. During this session, teams reflect on how the sprint went, including their development process, teamwork, decision-making, and use of AI.
+The questions guiding the retrospective are located in **Part 4 of the SDR**. During this session, teams reflect on how the sprint went, including their development process, teamwork, decision-making, and use of AI.
 
 The distinction is important:
 
-* **SDR Parts 1 and 2 are maintained throughout the sprint.**
-* **SDR Part 3 is completed only at the end of the sprint during the in-class retrospective.**
+* **SDR Parts 1, 2, 3 are maintained throughout the sprint.**
+* **SDR Part 4 is completed only at the end of the sprint during the in-class retrospective.**
 * **The complete SDR is then submitted as a single document at the end of the sprint.**
 
 #### 6. Begin the Next Sprint
@@ -261,7 +263,7 @@ The outcomes of the demo and retrospective, together with stakeholder feedback, 
 
 ###### Do not forget this cycle! It will keep you on track! 
 
-**Plan → Develop + Maintain SDR Parts 1 & 2 + Update Tech-Value Alignment → Demo → In-Class Retro / Complete SDR Part 3 → Submit Full SDR → Plan Next Sprint**
+**Plan → Develop + Maintain SDR Parts 1, 2, 3 + Update Tech-Value Alignment → Demo → In-Class Retro / Complete SDR Part 4 → Submit Full SDR → Plan Next Sprint**
 
 
 
@@ -355,18 +357,21 @@ Sprint Planning and Sprint Retrospectives are completed **in class**.
 
 ### Sprint Decision Record (SDR)
 
-Throughout each sprint, teams maintain a single **Sprint Decision Record (SDR)** containing three parts:
+Throughout each sprint, teams maintain a single **Sprint Decision Record (SDR)** containing four parts:
 
 1. **Architectural Decisions**  
    Significant technical and architectural decisions made during the sprint, including alternatives considered and the reasoning behind the team's choices.
 
-2. **Decisions Regarding AI Usage**  
+2. **Major Decision**
+   Record a major decision and the logic behind the decision.
+
+3. **Decisions Regarding AI Usage**  
    Significant decisions about the team's use of generative and/or agentic AI, including where AI was used, what role it played, how its outputs were evaluated and validated, and whether its use added value.
 
-3. **Sprint Retrospective**  
+4. **Sprint Retrospective**  
    The questions used to guide the team's end-of-sprint retrospective.
 
-**Parts 1 and 2 should be maintained throughout the sprint as decisions occur. Part 3 is completed only during the in-class retrospective at the end of the sprint.**
+**Parts 1, 2, 3 should be maintained throughout the sprint as decisions occur. Part 4 is completed only during the in-class retrospective at the end of the sprint.**
 
 The complete SDR is then submitted as **one consolidated sprint document**, rather than requiring separate submissions for architectural decisions, AI decisions, and the retrospective.
 
