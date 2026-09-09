@@ -15,7 +15,7 @@ The goal is not only to produce a strong technical outcome. You will also learn 
 - take professional responsibility for the quality and impact of your team's work.
 
 > **Project-specific details:**  
-> _Detailed descriptions of each project can be found in the other files in this folder. Please refer to your own project's description for information on the project's community partner(s), and expectations._
+> _Detailed descriptions of each project can be found [here](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/project-descriptions.md)_
 
 ---
 ## Community-Engaged Software Development
@@ -33,8 +33,6 @@ Working with a real partner also involves uncertainty. Requirements may be incom
 
 The goal is to create technology **with communities, rather than simply for them**, and to understand software engineering as a practice that can create meaningful social value.
 
-> **Community partner expectations:**
-> *Detailed information about your project's community partner, project context, and specific expectations can be found in your project-specific documentation.*
 
 
 ## Software Development in the Age of AI
@@ -56,7 +54,7 @@ Using AI effectively requires more than prompting a tool and accepting its outpu
 Your team remains responsible for the work you submit, including work produced with AI assistance.
 
 > **AI use expectations:**  
-> _Your team has autonomy over when and how to use AI. The sprint planning documents will help you to plan your use of AI, and the spring retrospective documents will help you reflect on whether or not this usage was effective._
+> _Your team has autonomy over when and how to use AI. The sprint documentation will help you to plan and reflect on your use of AI. Sprint documentation can be found [here](https://github.com/inspireuvic/SENG480B-Fall2026/tree/main/sprint-documentation); please read this entire document to understand the expectations. 
 
 ---
 
@@ -112,7 +110,7 @@ When reviewing AI-generated work, collaboration is especially important. AI outp
 Therefore, your team should therefore focus not only on **whether something works**, but also on whether it is appropriate, justified, understandable, and aligned with the goals of the project.
 
 > **Peer review requirements:**  
-> The course deliverables include a graded peer review component so you can evaluate the collaboration skills of your fellow teammates. 
+> The course deliverables include a graded peer review component so you can evaluate the collaboration skills of your fellow teammates. At the end of every sprint you will fill up a peer review survey. The instructions for, and links to these surveys can be found [here](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/peer-review-resources/peer-review-instructions.md).
 
 ---
 
@@ -162,26 +160,27 @@ Each development sprint follows the same general cycle.
 
 #### 1. Sprint Planning
 
-Each sprint begins with an **in-class Sprint Planning session**. Use the sprint planning template for this activity, as you must submit your sprint plans. 
+Each sprint begins with an **in-class Sprint Planning session**. Use the [sprint planning template](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/sprint-documentation/sprint-planning.md) for this activity, as you must submit your sprint plans. 
 
 Teams identify what they intend to accomplish during the sprint, establish priorities, identify key tasks and responsibilities, and determine how the work contributes to the larger project goals.
 
 #### 2. Develop and Maintain the Sprint Decision Record (SDR)
 
-Throughout the sprint, teams maintain a single **Sprint Decision Record (SDR)**.
+Throughout the sprint, teams maintain a single **Sprint Decision Record (SDR)**. 
+**Templates for the SDRs can be found in the [sprint-documentation folder](https://github.com/inspireuvic/SENG480B-Fall2026/tree/main/sprint-documentation)** Use the template for the corresponding sprint. For example, in Sprint 1, use the SDR template for sprint 1. 
 
 The SDR is a living document that captures important decisions as the project develops, rather than asking teams to reconstruct those decisions at the end of the sprint.
 
 The SDR contains four parts:
 
-###### Part 1: Architectural Decisions
+##### Part 1: Architectural Decisions
 
 Records significant technical and architectural decisions made during the sprint, including the reasoning behind those decisions, alternatives considered, and their implications. This mirrors common industry practice, where practitioners often maintain an Architectural Decision Record (ADR). In this course, it is slightly simplified in consideration of your workload.
 
-###### Part 2: Documenting a Major Decision
+##### Part 2: Documenting a Major Decision 
+Records ome significant decision throughout the sprint, and the logic behind it. 
 
-###### Part 3: Sprint Decisions Regarding AI Usage
-
+##### Part 3: Sprint Decisions Regarding AI Usage
 Records how generative or agentic AI contributed to the sprint, including decisions about:
 
 * where and why AI was used;
@@ -192,7 +191,7 @@ Records how generative or agentic AI contributed to the sprint, including decisi
 
 **Parts 1, 2, 3 should be maintained throughout the sprint as decisions occur.**
 
-###### Part 4: Sprint Retrospective
+##### Part 4: Sprint Retrospective
 
 The final section of the SDR contains the questions that guide the team's **Sprint Retrospective**.
 
@@ -353,7 +352,7 @@ Sprint assessment includes:
 - **Sprint Demo**
 - **Sprint Retrospective**
 
-Sprint Planning and Sprint Retrospectives are completed **in class**.
+Sprint Planning and Sprint Retrospectives are to be completed **in class**.
 
 ### Sprint Decision Record (SDR)
 
@@ -373,7 +372,7 @@ Throughout each sprint, teams maintain a single **Sprint Decision Record (SDR)**
 
 **Parts 1, 2, 3 should be maintained throughout the sprint as decisions occur. Part 4 is completed only during the in-class retrospective at the end of the sprint.**
 
-The complete SDR is then submitted as **one consolidated sprint document**, rather than requiring separate submissions for architectural decisions, AI decisions, and the retrospective.
+The complete SDR is then submitted as **one consolidated sprint document**, rather than requiring separate submissions for architectural decisions, AI decisions, and the retrospective. SDR templates and the sprint planning template can be found in the [sprint documentation folder](https://github.com/inspireuvic/SENG480B-Fall2026/tree/main/sprint-documentation).
 
 Teams are assessed not simply on whether AI was used, but on the quality of their **critical engagement with AI**. Teams should be able to explain what AI contributed, what they accepted, modified, or rejected, how outputs were validated, and why using or not using AI was appropriate for the task.
 
@@ -422,7 +421,7 @@ This includes:
 
 ### Peer Reviews
 
-At the end of **each sprint**, students will complete a peer review of:
+At the end of **each sprint**, students will complete a [peer review](https://github.com/inspireuvic/SENG480B-Fall2026/tree/main/peer-review-resources) of:
 
 - each of their teammates; and
 - themselves.
