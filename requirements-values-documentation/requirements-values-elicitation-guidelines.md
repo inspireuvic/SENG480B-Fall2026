@@ -100,7 +100,6 @@ If AI tools contributed to eliciting, interpreting, refining, or writing the req
 ### _Issue Recording Template_  ###
 
 
-
 | Field | What to Record |
 |---|---|
 | **GitHub Issue Type** | select from Epic, Feature, User Story |
@@ -111,6 +110,8 @@ If AI tools contributed to eliciting, interpreting, refining, or writing the req
 | **Validation with Stakeholders/ Feedback** | If applicable, who reviewed the requirement? What feedback was received and what changed? |
 | **Notes / Decisions / Trade-offs** | Record important assumptions, alternatives, scope decisions, or trade-offs. |
 | **Related Work** | Link related parent issues and known sub-issues, pull requests, tests, prototypes, or other evidence. |
+
+Templates for creating Epics, Features, User Stories, and Tasks are provided in the sample repository. Students should copy the entire **.github/ISSUE_TEMPLATE** folder, including all templates, into their team repository.
 
 The **Requirements and Values Document** should provide an overview of the requirements and links to the relevant GitHub issues.
 
