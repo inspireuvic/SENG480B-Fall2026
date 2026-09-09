@@ -108,7 +108,7 @@ If a component did not change this sprint, put `no` and leave AI involvement bla
 
 ## Does this replace an earlier decision?
 
-If this decision reverses or replaces something from Sprint 1, say so here. Do not go back and edit your Sprint 1 record.
+If this decision reverses or replaces something from Sprint 2, say so here. Do not go back and edit your Sprint 2 record.
 
 **Supersedes:**
 
