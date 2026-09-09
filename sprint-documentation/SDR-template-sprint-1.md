@@ -23,7 +23,7 @@
 
 ## Part 1 — Architecture Components
 
-Sprint 1 is setup, not build. There is nothing to compare against yet, so instead of tracking what changed, this sprint records what your team **intends** to build and how you expect each part to come into being.
+Sprint 1 is setup, not build. This sprint records what your team **intends** to build and how you expect each part to come into being.
 
 For each component, mark whether you plan to have it, and how you expect it to be built.
 
