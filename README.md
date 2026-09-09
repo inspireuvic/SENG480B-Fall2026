@@ -135,7 +135,7 @@ Your team should be able to explain:
 You should expect to revisit these questions throughout the course as your understanding of the problem develops.
 
 > **Value and strategy expectations:**  
-> _You will maintain a Tech-Value alignment document throughout the semester to capture how the technology you build connects to your project's values._
+> _You will maintain a [Tech-Value alignment stategy document](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/requirements-values-documentation/tech-value-alignment-strategy.md) throughout the semester to capture how the technology you build connects to your project's values._
 
 ---
 
