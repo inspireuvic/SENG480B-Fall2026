@@ -133,7 +133,7 @@ If this decision reverses or replaces something from Sprint 1 or Sprint 2, say s
 ## Part 3- Sprint Decisions Regarding AI Usage
 ## 1. AI Contribution, Evaluation, and Verification
 
-For each **significant task in which generative or agentic AI contributed**, complete one row of the table below. Focus on meaningful uses of AI rather than minor interactions such as spelling corrections or simple lookups. **Maintain this table as you make decisions during your sprint; do not attempt to compelete it retroactively!**
+For each **task that you planned to accomplish in your sprint plan**, complete one row of the table below. Focus on meaningful uses of AI rather than minor interactions such as spelling corrections or simple lookups. **Maintain this table as you make decisions during your sprint; do not attempt to compelete it retroactively!** If may include additional tasks if you accomplished more than you set out to in your sprint plan! 
 
 | Task | GitHub Issue # | Expected AI Contribution | What AI Actually Did | AI Autonomy Level | Human Reviewer(s) | Quality of AI's Work | Changes / Corrections Required | How Was AI's Work Verified? | Problems Identified Through Verification | Anything Initially Convincing but Wrong / Incomplete? | Remaining Uncertainty | Was AI the Right Choice? | Why? |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
