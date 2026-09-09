@@ -337,7 +337,7 @@ This includes the quality of the team's:
 - requirements and requirements elicitation;
 - identification and analysis of relevant stakeholder and societal values
 
-The Requirements + Values documentation should evolve as the team's understanding of the project and its stakeholders develops.
+The [Requirements + Values documentation](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/requirements-values-documentation/requirements-values-documentation.md) should evolve as the team's understanding of the project and its stakeholders develops.
 
 ---
 
@@ -380,7 +380,7 @@ Teams are assessed not simply on whether AI was used, but on the quality of thei
 
 ## Strategy for Technology-Value Alignment — 10%
 
-Teams maintain and progressively refine a **Tech-Value Alignment Document** throughout the project.
+Teams maintain and progressively refine a [**Tech-Value Alignment Strategy Document**](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/requirements-values-documentation/tech-value-alignment-strategy.md) throughout the project. 
 
 The purpose of this document is to connect:
 
