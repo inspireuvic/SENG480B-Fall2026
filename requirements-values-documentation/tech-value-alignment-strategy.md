@@ -13,7 +13,7 @@ Each identified stakeholder value  should be entered as an issue in the GitHub p
 
 Use the following hierarchy to connect stakeholder values to technical work:
 
-<img src="image.png" alt="Description of the image" width="500">
+<img src="values-artifact.png" alt="Description of the image" width="500">
 
 Source: Adapted from [Agbese M. et al., 2025](https://link.springer.com/content/pdf/10.1007/978-3-032-14518-5_8.pdf)
 

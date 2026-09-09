@@ -34,7 +34,7 @@ Engage with stakeholders to understand:
 - the environment in which the product will operate
 - any expectations, constraints, risks, or concerns that may affect the product
 
-Here is some [interviewing tips](https://github.com/Uvic-SENG321Fall2025/course/blob/main/project/interviewing-tips.md) for requirement elicitation. 
+Here is some [interviewing tips](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/requirements-values-documentation/interview-tips.md) for requirement elicitation. 
 
 ## 2.1 Hints for requirement elicitation questions
 Use open-ended questions to understand stakeholders’ current experiences, goals, and difficulties before discussing possible features.
