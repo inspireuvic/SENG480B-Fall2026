@@ -237,4 +237,4 @@ Identify any important tasks or decisions this sprint that your team believes sh
 >
 
 ### Reminder
-Remember that each sprint you must update your Architectural Decision Records (ARDs) and your Tech-Value Alignment Document. 
+Remember that each sprint you must continuously update your Sprint Decision Records (SRDs) and your Tech-Value Alignment Document. 
