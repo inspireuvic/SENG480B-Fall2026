@@ -4,10 +4,11 @@ Technology–value alignment means ensuring that the product’s technical artif
 
 Teams must show how each stakeholder value moves from elicitation into product decisions, technical work, and implemented outcomes.
 
-For every value-related GitHub issue, students must document stakeholder, development team, and AI contributions. Students must also explain how any AI-generated output was reviewed and verified. Use the provided **Issue Recording Template**.
+For each value-related GitHub issue, use the template that matches its issue type: Value, Epic, Feature, User Story, or Task and complete all applicable sections.
+
 
 ### 1. Add Values as a gitHub issue 
-Each identified stakeholder value  should be entered as an issue in the GitHub project repo, with the **Issue Type** = **value**. Indicate the value in the Issue Description.
+Create a separate GitHub issue for each identified stakeholder value. Select the **Value template** in GitHub issues and complete all applicable fields.
 
 ### 2. Connect values to technical artifacts 
 
@@ -17,28 +18,22 @@ Use the following hierarchy to connect stakeholder values to technical work:
 
 Source: Adapted from [Agbese M. et al., 2025](https://link.springer.com/content/pdf/10.1007/978-3-032-14518-5_8.pdf)
 
-### 2.1. Link Each Value to Relevant GitHub Epics
+Maintain the Following Hierarchy:
+
+- One stakeholder **Value** must be linked to one or more **Epics**.
+- One **Epic** may address one or more stakeholder **Values**.
+- Each **Epic** should contain one or more **Features**.
+- Each **Feature** should contain one or more **User Stories**.
+
+  
+### 2.1. Connect Each value to GitHub Epics and break down the work
 
 For each stakeholder value:
-1. Review the existing GitHub Epics and identify which epic or epics should address the value.
-2. Link the relevant Value to those epics.
-3. If no existing epic addresses the value, create a new epic(s) that describes the high-level product capability or outcome needed to support it.
-4. In each linked epic, briefly explain how the proposed capability or outcome will address the stakeholder value.
-5. Break the epic down into appropriate features, user stories, and implementation tasks if this has not already been done.
-
-
-### 2.2  Document technology–value alignment in GitHub issues
-
-Each Value in GitHub issues should be linked to corresponding Epic(s).
-For every value-related epic, feature, user story, or task, use the **Issue Recording Template** given in *Requirements and Values Elicitation Guidelines* to document:
-
-- how the work is intended to address the stakeholder value should be stated
-- the stakeholder’s contribution
-- the development team’s contribution
-- any AI contribution
-- how the AI contribution was reviewed or verified
-- who participated in the review and
-- the feedback received and any resulting changes.
+1. Review the existing epics and identify which ones should address the value.
+2. Link the Value issue to each relevant epic.
+3. If no existing epic addresses the value, create a new epic using the **Epic** issue template
+4. Break the epic down into appropriate features, user stories, and their sub tasks.
+5. Use the appropriate Epic, Feature, User Story, or Task template in GitHub issues and complete all applicable fields.
 
 ## 3. Validation of Tech-Value Alignment
 Use this table to record how stakeholders reviewed the alignment between their values and the related technical artifacts, such as requirements, designs, prototypes, implemented features, and test results.
