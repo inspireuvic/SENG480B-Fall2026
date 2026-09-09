@@ -120,7 +120,7 @@ Mark one with an `x`.
 
 ## Does this replace an earlier decision?
 
-If this decision reverses or replaces something from Sprint 1 or Sprint 2, say so here. Do not go back and edit your earlier records.
+If this decision reverses or replaces something from Sprint 1, 2, or 3, say so here. Do not go back and edit your earlier records.
 
 **Supersedes:**
 
