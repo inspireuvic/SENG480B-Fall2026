@@ -4,7 +4,7 @@ Technology–value alignment means ensuring that the product’s technical artif
 
 Teams must show how each stakeholder value moves from elicitation into product decisions, technical work, and implemented outcomes.
 
-For each value-related GitHub issue, use the template that matches its issue type: Value, Epic, Feature, User Story, or Task and complete all applicable sections.
+For each value-related GitHub issue, use the template that matches its issue type: Value, Epic, Feature, User Story and complete all applicable sections.
 
 
 ### 1. Add Values as a gitHub issue 
