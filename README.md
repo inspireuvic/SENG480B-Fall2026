@@ -22,7 +22,7 @@ The goal is not only to produce a strong technical outcome. You will also learn 
 
 This is not a typical class project. Each team will work on a real project developed in collaboration with a real **community partner** whose organization, users, and broader community have genuine needs, constraints, priorities, and values. Ideally, your community partners should be able to adopt what you have built this semester in their organizations, beyond this course - **your work can have a real impact!**
 
-This means that prject success cannot be defined only by whether your team builds technically functional software. Your work should contribute meaningfully to the goals of the community partners and respond to the context in which the technology will actually be used.
+This means that project success cannot be defined only by whether your team builds technically functional software. Your work should contribute meaningfully to the goals of the community partners and respond to the context in which the technology will actually be used.
 
 
 Community partners are not simply sources of requirements. They bring **domain expertise, lived experience, organizational knowledge, and perspectives** that your technical team may not possess. Effective software engineering therefore requires your team to learn from that expertise and incorporate it into your decisions.
@@ -110,7 +110,7 @@ When reviewing AI-generated work, collaboration is especially important. AI outp
 Therefore, your team should therefore focus not only on **whether something works**, but also on whether it is appropriate, justified, understandable, and aligned with the goals of the project.
 
 > **Peer review requirements:**  
-> The course deliverables include a graded peer review component so you can evaluate the collaboration skills of your fellow teammates. At the end of every sprint you will fill up a peer review survey. The instructions for, and links to these surveys wil be provided. 
+> The course deliverables include a graded peer review component so you can evaluate the collaboration skills of your fellow teammates. At the end of every sprint you will fill up a peer review survey. The instructions for, and links to these surveys will be provided. 
 
 ---
 
