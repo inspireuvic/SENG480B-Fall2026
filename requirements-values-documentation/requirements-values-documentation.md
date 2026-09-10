@@ -60,7 +60,7 @@ Describe any items or issues that will limit the options available to the develo
 GitHub issues are the source of truth for the detailed requirements and stakeholder values. This section provides an overview and links to the current GitHub records.
 
 ## 4.1 Requirements
-Add and maintain all requirements in GitHub using the appropriate issue types, such as Epic, Feature, User Story, and Task. Link each child issue to its parent issue so that the hierarchy is clear. Refer to **_Requirements & Values Elicitation Guidelines_** for details about recording requirements in GitHub.
+Add and maintain all requirements in GitHub using the appropriate issue types, such as Epic, Feature, User Story, and Task. Link each child issue to its parent issue so that the hierarchy is clear. Refer to [**_Requirements & Values Elicitation Guidelines_**](./requirements-values-elicitation-guidelines.md) for details about recording requirements in GitHub.
 
 
 At each required submission point:
