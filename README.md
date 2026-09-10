@@ -1,6 +1,6 @@
-# SENG480B Course Description
+# SENG480B Project Specification 
 
-## Course Context
+## Context
 
 This course is a **community-engaging, project-based experiential course**. You will work in a team on a real-world, socially meaningful project with authentic stakeholders, constraints, uncertainty, and changing needs.
 
@@ -15,7 +15,7 @@ The goal is not only to produce a strong technical outcome. You will also learn 
 - take professional responsibility for the quality and impact of your team's work.
 
 > **Project-specific details:**  
-> _Detailed descriptions of each project can be found [here](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/project-descriptions.md)_
+> _Detailed descriptions of each project will be provided by Friday EOD and you **should read them by Monday morning class**!
 
 ---
 ## Community-Engaged Software Development
@@ -54,7 +54,7 @@ Using AI effectively requires more than prompting a tool and accepting its outpu
 Your team remains responsible for the work you submit, including work produced with AI assistance.
 
 > **AI use expectations:**  
-> _Your team has autonomy over when and how to use AI. The sprint documentation will help you to plan and reflect on your use of AI. Sprint documentation can be found [here](https://github.com/inspireuvic/SENG480B-Fall2026/tree/main/sprint-documentation); please read this entire document to understand the expectations. 
+> _Your team has autonomy over when and how to use AI. The sprint documentation will help you to plan and reflect on your use of AI. Sprint documentation (template will be provided) to be maintained for each sprint. 
 
 ---
 
@@ -110,7 +110,7 @@ When reviewing AI-generated work, collaboration is especially important. AI outp
 Therefore, your team should therefore focus not only on **whether something works**, but also on whether it is appropriate, justified, understandable, and aligned with the goals of the project.
 
 > **Peer review requirements:**  
-> The course deliverables include a graded peer review component so you can evaluate the collaboration skills of your fellow teammates. At the end of every sprint you will fill up a peer review survey. The instructions for, and links to these surveys can be found [here](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/peer-review-resources/peer-review-instructions.md).
+> The course deliverables include a graded peer review component so you can evaluate the collaboration skills of your fellow teammates. At the end of every sprint you will fill up a peer review survey. The instructions for, and links to these surveys wil be provided. 
 
 ---
 
@@ -135,11 +135,11 @@ Your team should be able to explain:
 You should expect to revisit these questions throughout the course as your understanding of the problem develops.
 
 > **Value and strategy expectations:**  
-> _You will maintain a [Tech-Value alignment stategy document](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/requirements-values-documentation/tech-value-alignment-strategy.md) throughout the semester to capture how the technology you build connects to your project's values._
+> _You will maintain a Tech-Value Alignment Strategy document (template will be provided) throughout the semester to capture how the technology you build connects to your project's values._
 
 ---
 
-# Course Structure and Sprint Rhythm
+# Project Structure and Sprint Rhythm
 
 The course is organized around a **PREP phase, four development sprints, and a final WRAP-UP phase**. Each sprint has its own learning goals and project outcomes, but teams follow a consistent sprint rhythm throughout the term.
 
@@ -267,9 +267,6 @@ The outcomes of the demo and retrospective, together with stakeholder feedback, 
 **Plan → Develop + Maintain SDR Parts 1, 2, 3 + Update Tech-Value Alignment → Demo → In-Class Retro / Complete SDR Part 4 → Submit Full SDR → Plan Next Sprint**
 
 
-
-
-
 ---
 
 # Assessment and Grading
@@ -278,7 +275,7 @@ SENG 480B is a **project-based, experiential course**. Your grade reflects not o
 
 Assessment therefore emphasizes both **project outcomes and professional process**.
 
-## Grade Breakdown
+## Course Grade Breakdown (for context)
 
 | Component | Weight |
 |---|---:|
@@ -339,7 +336,7 @@ This includes the quality of the team's:
 - requirements and requirements elicitation;
 - identification and analysis of relevant stakeholder and societal values
 
-The [Requirements + Values documentation](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/requirements-values-documentation/requirements-values-documentation.md) should evolve as the team's understanding of the project and its stakeholders develops. Throughout the semester, your team should use GitHub issues to document your requirements/values and development tasks. The [Requirements and Values Elicitation Guideline](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/requirements-values-documentation/requirements-values-elicitation-guidelines.md) provides a template with which you should format your GitHub issues. Once you have created your own project repositories, follow the example repo provided to comply with the required format of your epics, features, user stories, and tasks. For assistance with your repos, contact your TAs, either Jay Samaraweera (jayanis@uvic.ca) or Bachan Ghimire (bachan48@uvic.ca). 
+The Requirements and Values Documentation  will evolve as the team's understanding of the project and its stakeholders develops. Throughout the semester, your team should use GitHub issues to document your requirements/values and development tasks. A document containing guidelines and a template for this document and how to document your requirements in the project's GH repo will be provided.  Once you have created your own project repositories, follow the example repo provided to comply with the required format of your epics, features, user stories, and tasks. For assistance with your repos, contact your TAs, either Jay Samaraweera (jayanis@uvic.ca) or Bachan Ghimire (bachan48@uvic.ca). 
 
 ---
 
@@ -374,7 +371,7 @@ Throughout each sprint, teams maintain a single **Sprint Decision Record (SDR)**
 
 **Parts 1, 2, 3 should be maintained throughout the sprint as decisions occur. Part 4 is completed only during the in-class retrospective at the end of the sprint.**
 
-The complete SDR is then submitted as **one consolidated sprint document**, rather than requiring separate submissions for architectural decisions, AI decisions, and the retrospective. SDR templates and the sprint planning template can be found in the [sprint documentation folder](https://github.com/inspireuvic/SENG480B-Fall2026/tree/main/sprint-documentation).
+The complete SDR is then submitted as **one consolidated sprint document**, rather than requiring separate submissions for architectural decisions, AI decisions, and the retrospective. SDR templates and the sprint planning template will be provided. 
 
 Teams are assessed not simply on whether AI was used, but on the quality of their **critical engagement with AI**. Teams should be able to explain what AI contributed, what they accepted, modified, or rejected, how outputs were validated, and why using or not using AI was appropriate for the task.
 
@@ -382,7 +379,7 @@ Teams are assessed not simply on whether AI was used, but on the quality of thei
 
 ## Strategy for Technology-Value Alignment — 10%
 
-Teams maintain and progressively refine a [**Tech-Value Alignment Strategy Document**](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/requirements-values-documentation/tech-value-alignment-strategy.md) throughout the project. 
+Teams maintain and progressively refine a Tech-Value Alignment Strategy document, guidelines and template will be provided.  
 
 The purpose of this document is to connect:
 
@@ -423,7 +420,7 @@ This includes:
 
 ### Peer Reviews
 
-At the end of **each sprint**, students will complete a [peer review](https://github.com/inspireuvic/SENG480B-Fall2026/tree/main/peer-review-resources) of:
+At the end of **each sprint**, students will complete a peer review (template will be provided) of:
 
 - each of their teammates; and
 - themselves.
@@ -470,12 +467,6 @@ Assessment will consider the team's ability to:
 - communicate technical material effectively to both technical and non-technical audiences.
 
 ---
-
-# Quiz 1 and Quiz 2 — 5%
-
-There are two individual quizzes, worth **2.5% each**.
-
-The quizzes assess individual understanding of foundational course readings and concepts and provide evidence of each student's individual preparation for the experiential and project-based work in the course.
 
 # Accountability for AI-Assisted Work
 
