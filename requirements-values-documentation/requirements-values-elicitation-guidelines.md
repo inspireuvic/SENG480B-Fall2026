@@ -88,13 +88,7 @@ Copy the entire .github/ISSUE_TEMPLATE folder, including all templates, into you
 
 Use a clear, meaningful title and include enough detail for another team member to understand the requirement, its source, and why it matters.
 
-If AI tools contributed to eliciting, interpreting, refining, or writing the requirement, clearly document:
-
-**AI contribution:** What the AI suggested, generated, summarized, or revised.
-
-**AI Review / Verification:** How was the AI contribution checked before being accepted? 
-
-**Validation with Stakeholders/ Feedback:** How the team checked that the requirement and any AI contribution are accurate, relevant, feasible, clear, and aligned with stakeholder needs and values. 
+If AI tools contributed to eliciting, interpreting, refining, or writing the requirement, update the appropriate fields to indicate AI contribution, how the AI contribution reviews, stakeholders contributions and feedback on them if any. 
 
 
 ### _Issue Recording Template_  ###
