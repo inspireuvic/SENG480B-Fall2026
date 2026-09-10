@@ -160,14 +160,14 @@ Each development sprint follows the same general cycle.
 
 #### 1. Sprint Planning
 
-Each sprint begins with an **in-class Sprint Planning session**. Use the [sprint planning template](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/sprint-documentation/sprint-planning.md) for this activity, as you must submit your sprint plans. 
+Each sprint begins with an **in-class Sprint Planning session**. We will provide a sprint template for this activity, as you must submit your sprint plans. 
 
 Teams identify what they intend to accomplish during the sprint, establish priorities, identify key tasks and responsibilities, and determine how the work contributes to the larger project goals.
 
 #### 2. Develop and Maintain the Sprint Decision Record (SDR)
 
 Throughout the sprint, teams maintain a single **Sprint Decision Record (SDR)**. 
-**Templates for the SDRs can be found in the [sprint-documentation folder](https://github.com/inspireuvic/SENG480B-Fall2026/tree/main/sprint-documentation)** Use the template for the corresponding sprint. For example, in Sprint 1, use the SDR template for sprint 1. 
+**Templates for the SDRs will be provided. Use the template for the corresponding sprint. For example, in Sprint 1, use the SDR template for sprint 1. 
 
 The SDR is a living document that captures important decisions as the project develops, rather than asking teams to reconstruct those decisions at the end of the sprint.
 
