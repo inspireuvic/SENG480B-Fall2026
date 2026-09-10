@@ -81,10 +81,10 @@ This is only one possible interpretation of the stakeholder’s response. Additi
 
 ## 2.3 Recording requirements in GitHub
 
-Record each proposed requirement as a GitHub Issue using the provided  **_Issue Recording Template_**. 
+Templates for creating Epics, Features, User Stories, and Tasks are provided in the sample repository.
 
+Copy the entire .github/ISSUE_TEMPLATE folder, including all templates, into your team repository. The templates are based on the following **Issue Recording Template** and have been adapted for each issue type, such as Epics, Features, and User Stories.
 
-Set the **GitHub Issue Type** to epic, feature, or user story.
 
 Use a clear, meaningful title and include enough detail for another team member to understand the requirement, its source, and why it matters.
 
@@ -111,7 +111,6 @@ If AI tools contributed to eliciting, interpreting, refining, or writing the req
 | **Notes / Decisions / Trade-offs** | Record important assumptions, alternatives, scope decisions, or trade-offs. |
 | **Related Work** | Link related parent issues and known sub-issues, pull requests, tests, prototypes, or other evidence. |
 
-Templates for creating Epics, Features, User Stories, and Tasks are provided in the sample repository. Students should copy the entire **.github/ISSUE_TEMPLATE** folder, including all templates, into their team repository.
 
 The **Requirements and Values Document** should provide an overview of the requirements and links to the relevant GitHub issues.
 
@@ -159,7 +158,7 @@ Avoid listing only a generic word such as *privacy* or *transparency* without ex
 
 ## 3.3 Recording Stakeholder Values in GitHub
 
-Create a GitHub issue for each identified value and assign it the **Issue Type = Value**. 
+Create a GitHub Value issue using the Value template in GitHub issues.
 
 ***Any additional details or elicitation notes please attach.***
 
