@@ -15,7 +15,7 @@ The goal is not only to produce a strong technical outcome. You will also learn 
 - take professional responsibility for the quality and impact of your team's work.
 
 > **Project-specific details:**  
-> _Detailed descriptions of each project will be provided by Friday EOD and you **should read them by Monday morning class**!
+> Detailed descriptions of each project will be provided by Friday EOD and you **should read them by Monday morning class**!
 
 ---
 ## Community-Engaged Software Development
