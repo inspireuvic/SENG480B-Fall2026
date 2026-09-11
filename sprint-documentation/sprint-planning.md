@@ -43,11 +43,11 @@ In the table below: Identify the significant **non development tasks** (e.g. wri
 
 Be specific about the **work AI will perform**, rather than simply naming a tool.
 
-| Task | What will AI do? | How much autonomy will AI have? | Why is AI appropriate for this task? | What will humans still do? | What are the biggest risks of using AI for this task? |
-| ---- | ---------------- | ------------------------------ | ------------------------------------ | -------------------------- | ---------------------------------------------------- |
-|      |                  |                                |                                      |                            |                                                      |
-|      |                  |                                |                                      |                            |                                                      |
-|      |                  |                                |                                      |                            |                                                      |
+| Task | What will AI do? | How much autonomy will AI have? | Why is AI appropriate for this task? | What will humans still do? | What are the biggest risks of using AI for this task? | Notes |
+| ---- | ---------------- | ------------------------------ | ------------------------------------ | -------------------------- | ---------------------------------------------------- |-----------
+|      |                  |                                |                                      |                            |                                                      |           |
+|      |                  |                                |                                      |                            |                                                      |           |
+|      |                  |                                |                                      |                            |                                                      |            |
 
 **AI autonomy levels:** 0: Human Only · 1: Advisor · 2: Collaborator · 3: Delegate · 4: Agent
 
@@ -63,8 +63,14 @@ Examples of AI-supported work might include:
 
 
 
+
+
 ## 4. Development Tasks
 Development tasks must be created as GitHub issues in your project repos. Do not track your development-related tasks on this document. 
+
+ ## 5. Tech-Value Alignment Specific Tasks
+
+  We want you to strategize about your tech value alignment strategy in this course. In the notes column of the table in Part 3, include information about who is doing the activity, what artifact(s) is/are involved, and which values are relevant to the task. 
 
 ### Reminder
 Remember that each sprint you must continuously update your Sprint Decision Records (SRDs) and your Tech-Value Alignment Document. 
