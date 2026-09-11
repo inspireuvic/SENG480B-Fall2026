@@ -1,4 +1,5 @@
 # Requirements and Values Document
+Use this document while completing the elicitation activities described in the **Requirements & Values Elicitation Guidelines**. Update it whenever new requirements, stakeholder values, or project changes are identified.
 
 **Project Name:**  
 **Team:**  
@@ -62,12 +63,13 @@ GitHub issues are the source of truth for the detailed requirements and stakehol
 ## 4.1 Requirements
 Add and maintain all requirements in GitHub using the appropriate issue types, such as Epic, Feature, User Story, and Task. Link each child issue to its parent issue so that the hierarchy is clear. Refer to [**_Requirements & Values Elicitation Guidelines_**](./requirements-values-elicitation-guidelines.md) for details about recording requirements in GitHub.
 
+Briefly summarize the upto date features and functionalities. You can export the current requirement issues (Epics, features and User stories) from GitHub.
 
 At each required submission point:
 
 - Export the current requirement issues from GitHub.
 - Commit the export to the project repository as requirements-issues-export.csv or requirements-issues-export.md.
-- Add the export date and a link below.
+- Record the export date and links below.
 
 **Requirements export date:** [YYYY-MM-DD]  
 **Requirements issue export:** [Add link]  
@@ -80,6 +82,7 @@ At each required submission point:
 
 - Export the current Values from GitHub issues with **issue type = Value**.
 - Commit the export to the project repository as value-issues-export.csv or value-issues-export.md.
+- Record the export date and links below.
 
 Add the export date and a link below.
 
@@ -89,7 +92,9 @@ Add the export date and a link below.
 
 
 # 5 Supporting Evidence and References
-Link to the materials that support the information in this document. These may include:
+Link to the `supporting-documents` folders or files that contain the elicitation and review evidence.
+
+These may include:
 - stakeholder interview, meeting, workshop, or observation notes;
 - questionnaire responses or summaries;
 - stakeholder review notes and feedback;
