@@ -1,14 +1,19 @@
 # Tech–Value Alignment Strategy
 
-Technology–value alignment means ensuring that the product’s technical artifacts: such as requirements, designs, code, and test cases reflect the values of the stakeholders who use or may be affected by the product.
+se this document throughout the project to connect identified stakeholder values with related requirements and technical work. Update it whenever new requirements or values are identified or when related design, implementation, testing, or stakeholder feedback changes.
 
-Teams must show how each stakeholder value moves from elicitation into product decisions, technical work, and implemented outcomes.
+**Tech–value alignment** is the process of connecting stakeholder values to technical artifacts—such as requirements, designs, code, and tests—and checking whether the resulting product supports those values.
 
-For each value-related GitHub issue, use the template that matches its issue type: Value, Epic, Feature, User Story and complete all applicable sections.
+This document records those connections, their validation, and changes made during development. Continue using the GitHub issue templates described in the **Requirements & Values Elicitation Guidelines**; do not duplicate complete issue records here.
 
 
-### 1. Add Values as a gitHub issue 
-Create a separate GitHub issue for each identified stakeholder value. Select the **Value template** in GitHub issues and complete all applicable fields.
+### 1. Confirm the Value gitHub issue 
+Confirm that each identified stakeholder value:
+
+- has a separate GitHub Value issue
+- contains the information required by the Value issue template
+
+If a value has not yet been recorded, create its Value issue in GitHub before continuing, refer to **Requirements & Values Elicitation Guidelines** for assistance on how to record values in GitHub issues.
 
 ### 2. Connect values to technical artifacts 
 
@@ -36,17 +41,9 @@ For each stakeholder value:
 5. Use the appropriate Epic, Feature, User Story, or Task template in GitHub issues and complete all applicable fields.
 
 ## 3. Validation of Tech-Value Alignment
-Use this table to record how stakeholders reviewed the alignment between their values and the related technical artifacts, such as requirements, designs, prototypes, implemented features, and test results.
+Ask the relevant stakeholders or reviewers to confirm whether the technical artifacts support the intended Value. Validation may include reviews of requirements, designs, prototypes, demonstrations, implemented features, or test results.
 
-Update the table whenever stakeholder feedback or project changes affect the alignment. Use the same Value ID assigned in the corresponding GitHub Value issue.
-
-
-| Value ID | Related Technical Artifact / GitHub Issue | Validation Method | Stakeholder / Reviewer | Review Date | Feedback and Evidence | Changes Made or Planned | Alignment Status |
-|---|---|---|---|---|---|---|---|
-| VAL-01 |  |  |  |  |  |  | Not reviewed / Partially aligned / Aligned |
-| VAL-02 |  |  |  |  |  |  | Not reviewed / Partially aligned / Aligned |
-| VAL-03 |  |  |  |  |  |  | Not reviewed / Partially aligned / Aligned |
-
+Record their feedback and any resulting changes in the relevant GitHub issues. Where possible, link the related stakeholder discussion records or supporting evidence to the appropriate issues. Continue updating the issues as the work progresses.
 
 ### 4. Sprints contributions to tech-value alignment
 If you addressed any value-alignment issues or made value-related decisions during the sprint, record the update here for the relevant sprint. You may also provide the related GitHub Issue IDs.
@@ -75,7 +72,7 @@ Record the Tech-Value Alignment decisions made during Sprint 4, including releva
 ### 5. Tech-Value Alignment submissions
 At each required submission point:
 
-- Export the Epics and their related task for value related epics.
+- Export the value-related Epics and their linked Features, User Stories, and Tasks.
 - Commit the export to the project repository as tech-value-alignment-export.csv or tech-value-alignment-export.md.
 - Add the export date and a link below.
 
@@ -85,5 +82,5 @@ At each required submission point:
 
 ## Related Project Documents
 
-1. **Requirements and Values Elicitation Guidelines**
-2. **Requirements and Values Document**
+1. **[Requirements and Values Elicitation Guidelines](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/requirements-values-documentation/requirements-values-elicitation-guidelines.md)**
+2. **[Requirements and Values Document](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/requirements-values-documentation/requirements-values-documentation.md)**
