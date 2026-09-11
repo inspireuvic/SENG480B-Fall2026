@@ -163,7 +163,7 @@ Keep the materials and records produced through stakeholder engagement. These ma
 - stakeholder emails or written feedback and
 - other records directly related to requirements or value elicitation.
 
-Store these materials in the appropriate supporting-documents folder in GitHub. Link them to relevant GitHub issues when they explain or support a requirement or value.
+Store these materials in the appropriate `supporting-documents` folder in GitHub. Link them to relevant GitHub issues when they explain or support a requirement or value.
 
 **Do not include private, confidential, or personally identifying stakeholder information in the repository without appropriate permission.**
 
