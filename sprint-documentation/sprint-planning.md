@@ -70,7 +70,7 @@ Development tasks must be created as GitHub issues in your project repos. Do not
 
  ## 5. Tech-Value Alignment Specific Tasks
 
-  We want you to strategize about your tech value alignment strategy in this course. In the notes column of the table in Part 3, include information about who is doing the activity, what artifact(s) is/are involved, and which values are relevant to the task. 
+  We want you to intentionally make choices about your tech value alignment strategy in this course. Revisit the table in part 3. Add tasks to the table that are explicitly related to preserving or achieving tech-value alignment. If the task already exists in the table, add details in the "Notes" section about who is involved in the task, which artifacts are involved, and which values are relevant to the task. 
 
 ### Reminder
 Remember that each sprint you must continuously update your Sprint Decision Records (SRDs) and your Tech-Value Alignment Document. 
