@@ -165,6 +165,7 @@ Consider:
 What slowed the team down, created uncertainty, or did not work as expected?
 
 ## 4. How Did AI Affect the Team?
+### Answer individually on mentimeter first, and then discuss with your team and graduate mentor. 
 
 AI can change not only the artifact being produced, but also how the team works.
 
@@ -187,6 +188,7 @@ AI can change not only the artifact being produced, but also how the team works.
 ---
 
 ## 5. Did AI Change Our Thinking?
+### Answer individually on mentimeter first, and then discuss with your team and graduate mentor. 
 
 Reflect on whether AI influenced how your team understood the problem or made decisions.
 
@@ -213,106 +215,6 @@ _If one of these did not occur during the sprint, please write **N/A** rather th
 ## 6. Social Impact Reflection
 
 Your INSPIRE project addresses a real-world or socially meaningful problem. Reflect on whether AI use affected the people, communities, or stakeholders connected to the project.
-
-### Did AI make assumptions about users, stakeholders, or the problem being addressed?
-
->
-
-### Did you identify any concerns involving:
-
-* Bias
-* Accessibility
-* Privacy
-* Representation
-* Safety
-* Any other value in your tech-value alignment document
-* Misinformation
-* Incorrect assumptions about users
-* Loss of important context
-* Other unintended consequences
-
-**Concerns identified:**
-
->
-
-### Did stakeholder or community partner feedback conflict with anything suggested or produced by AI?
-
->
-
-### What did your team do in response?
-
->
-
----
-
-## 7. Human Accountability
-
-### What AI-generated artifact, recommendation, or decision required the most human judgment this sprint?
-
->
-
-### Who ultimately took responsibility for deciding whether that output was appropriate to use?
-
->
-
-### Was there anything delegated to AI that, in retrospect, should have remained primarily human work?
-
->
-
----
-
-# Looking Ahead
-
-## 8. Start, Stop, Continue
-
-### START
-
-Something the team should begin doing next sprint:
-
->
-
-### STOP
-
-Something the team should stop doing:
-
->
-
-### CONTINUE
-
-Something that worked well and should continue:
-
->
-
----
-
-## 9. Our AI Strategy Next Sprint
-
-Based on what happened this sprint:
-
-### We will use AI more for:
-
->
-
-### We will use AI less for:
-
->
-
-### We will change how we supervise or verify AI by:
-
->
-
-### One new way we want to experiment with AI next sprint is:
-
->
-
----
-
-## 10. Team Reflection
-
-As a team, complete a short paragraph outlining what you've learned about working with AI. 
-
-### This sprint taught us that working effectively with AI requires...
-
 
 
 ## Marking
