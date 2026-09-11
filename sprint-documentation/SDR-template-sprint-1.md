@@ -109,7 +109,7 @@ If you are genuinely undecided about a component, write `not sure yet` and `unde
 ## Part 3- Sprint Decisions Regarding AI Usage
 ## 1. AI Contribution, Evaluation, and Verification
 
-For each **task that you planned to accomplish in part 3 of your sprint plan**, complete one row of the table below. Focus on meaningful uses of AI rather than minor interactions such as spelling corrections or simple lookups. **Maintain this table as you make decisions during your sprint; do not attempt to compelete it retroactively!** You may include additional tasks if you accomplished more than you set out to do in your sprint plan! 
+For each **non-development task you accomplished in this sprint** (e.g writing interview questions, conducting interviews/elicitation, analyzing elicitation notes, etc.) , complete one row of the table below. Focus on meaningful uses of AI rather than minor interactions such as spelling corrections or simple lookups. **Maintain this table as you make decisions during your sprint; do not attempt to compelete it retroactively!** You may include additional tasks if you accomplished more than you set out to do in your sprint plan! 
 
 | Task | GitHub Issue # | Expected AI Contribution | What AI Actually Did | AI Autonomy Level | Human Reviewer(s) | Quality of AI's Work | Changes / Corrections Required | How Was AI's Work Verified? | Problems Identified Through Verification | Anything Initially Convincing but Wrong / Incomplete? | Remaining Uncertainty | Was AI the Right Choice? | Why? | What was the experience of working with AI on this task?| 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |--- |
