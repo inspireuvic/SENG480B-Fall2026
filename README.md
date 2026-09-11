@@ -54,7 +54,7 @@ Using AI effectively requires more than prompting a tool and accepting its outpu
 Your team remains responsible for the work you submit, including work produced with AI assistance.
 
 > **AI use expectations:**  
-> _Your team has autonomy over when and how to use AI. The sprint documentation will help you to plan and reflect on your use of AI. Sprint documentation (template will be provided) to be maintained for each sprint. 
+> Your team has autonomy over when and how to use AI. The sprint documentation will help you to plan and reflect on your use of AI. Sprint documentation (template will be provided) to be maintained for each sprint. 
 
 ---
 
