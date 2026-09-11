@@ -81,30 +81,21 @@ This is only one possible interpretation of the stakeholder’s response. Additi
 
 ## 2.3 Recording requirements in GitHub
 
-Templates for creating Epics, Features, User Stories, and Tasks are provided in the sample repository.
+Use the Epic, Feature, and User Story issue templates provided in the sample repository. Copy the entire `.github/ISSUE_TEMPLATE` folder into your team repository.
 
-Copy the entire .github/ISSUE_TEMPLATE folder, including all templates, into your team repository. The templates are based on the following **Issue Recording Template** and have been adapted for each issue type, such as Epics, Features, and User Stories.
+For every issue:
 
+- use a clear, meaningful title
+- complete all applicable template fields
+- link each Feature and User Story to its parent issue
+- link supporting evidence when it explains or supports the requirement
 
-Use a clear, meaningful title and include enough detail for another team member to understand the requirement, its source, and why it matters.
+If AI contributed to eliciting, interpreting, refining, or writing an issue, use the template to record:
 
-If AI tools contributed to eliciting, interpreting, refining, or writing a requirement, update the appropriate fields to record the AI contribution, how it was reviewed or verified, and any stakeholder contributions or feedback.
-
-
-### _Issue Recording Template_  ###
-
-
-| Field | What to Record |
-|---|---|
-| **GitHub Issue Type** | select from Epic, Feature, User Story |
-| **Short description of Issue** |Provide a brief description|
-| **Acceptance Criteria** | What needed to be done, provide the steps on how to verify the issue is completed. |
-| **AI Contribution, if any** | What did AI generate, suggest, revise, implement, test, analyse, or evaluate? If no AI was used, write `None`. |
-| **AI Review / Verification** | How was the AI contribution checked before being accepted? Record whether it was **Accepted, Revised, or Rejected** and details of updates if any. |
-| **Validation with Stakeholders/ Feedback** | If applicable, who reviewed the requirement? What feedback was received and what changed? |
-| **Notes / Decisions / Trade-offs** | Record important assumptions, alternatives, scope decisions, or trade-offs. |
-| **Related Work** | Link related parent issues and known sub-issues, pull requests, tests, prototypes, or other evidence. |
-
+- what AI contributed
+- how the team reviewed the contribution
+- whether the contribution was accepted, revised, or rejected
+- any stakeholder feedback that influenced the decision
 
 The **Requirements and Values Document** should provide an overview of the requirements and links to the relevant GitHub issues.
 
@@ -145,16 +136,19 @@ The **Value / Brief Description** should be short but specific enough to identif
 
 For example:
 
-> `VAL-01 — Privacy: control over who can access personal information`
+> `Privacy: control over who can access personal information`
 
 Avoid listing only a generic word such as *privacy* or *transparency* without explaining what it means in the context of the project.
 
 
 ## 3.3 Recording Stakeholder Values in GitHub
 
-Create a GitHub Value issue using the Value template in GitHub issues.
+Create one GitHub issue for each identified stakeholder value using the Value issue template. Complete all applicable fields and attach or link the supporting elicitation evidence.
+If AI contributed to identifying, interpreting, or describing the value, record:
+- what AI contributed
+- All  the stakeholders’ feedback, including any revisions made
 
-***Any additional details or elicitation notes please attach.***
+Record this information in the relevant fields of the Value issue template.
 
 The **Requirements and Values Document** should provide a brief overview of the identified values and links to their corresponding GitHub issues with **Issue Type = Value**.
 
@@ -171,13 +165,13 @@ Keep the materials and records produced through stakeholder engagement. These ma
 
 Store these materials in the appropriate supporting-documents folder in GitHub. Link them to relevant GitHub issues when they explain or support a requirement or value.
 
-Do not include private, confidential, or personally identifying stakeholder information in the repository without appropriate permission.
+**Do not include private, confidential, or personally identifying stakeholder information in the repository without appropriate permission.**
 
 ## 5. Keeping Project Records Updated
 
 Following this guide, your team must regularly update and push the following project records to GitHub:
 - Requirements and Values document
-- Requirements and values records in GitHub issues
+- Requirement and value GitHub issues
 - The Tech–Value Alignment document and
 - Relevant elicitation notes and supporting evidence.
 
