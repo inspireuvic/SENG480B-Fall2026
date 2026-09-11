@@ -39,8 +39,6 @@ Consider both:
 
 ## 3. Non- Development Sprint Tasks
 
-Your **development** tasks must be documented in GitHub. 
-
 In the table below: Identify the significant **non development tasks** (e.g. writing interview questions, conducting elicitation sessions, analyzing requirements) for which your team plans to use generative or agentic AI during this sprint.
 
 Be specific about the **work AI will perform**, rather than simply naming a tool.
@@ -64,7 +62,9 @@ Examples of AI-supported work might include:
 * Critiquing an existing design
 
 
->
+
+## 4. Development Tasks
+Development tasks must be created as GitHub issues in your project repos. Do not track your development-related tasks on this document. 
 
 ### Reminder
 Remember that each sprint you must continuously update your Sprint Decision Records (SRDs) and your Tech-Value Alignment Document. 
