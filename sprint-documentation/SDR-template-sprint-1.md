@@ -106,7 +106,7 @@ If you are genuinely undecided about a component, write `not sure yet` and `unde
 
 ---
 
-## Part 3- Sprint Decisions Regarding AI Usage
+## Part 3A- Sprint Decisions Regarding AI Usage for Non-Development Tasks
 ## 1. AI Contribution, Evaluation, and Verification
 
 For each **non-development task you accomplished in this sprint** (e.g writing interview questions, conducting interviews/elicitation, analyzing elicitation notes, etc.) , complete one row of the table below. Focus on meaningful uses of AI rather than minor interactions such as spelling corrections or simple lookups. **Maintain this table as you make decisions during your sprint; do not attempt to compelete it retroactively!** You may include additional tasks if you accomplished more than you set out to do in your sprint plan! 
@@ -119,6 +119,9 @@ For each **non-development task you accomplished in this sprint** (e.g writing i
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ****IMPORTANT: If you have any updates related to Tech-Value Alignment tasks, please update the Tech-Value Alignment Strategy document for the appropriate sprint.****
+
+## Part 3B - Sprint Decisions Regarding AI Usage for Development Tasks
+For each **development task** answer the prompts accurately before closing each user-story related issue. 
 
 ## Part 4 - Sprint Retrospective
 #### Only complete this section during the sprint retrospective in class (at the end of each sprint).
@@ -224,7 +227,8 @@ Marked on completeness and clarity:
 - Every question answered
 - Part 1 — every component marked, with `not sure yet` / `undecided` accepted as a valid answer
 - Part 2 — all parts complete and question 4 is accurate
-- All of Part 3 is completed and contains an appropriate number of tasks and appropriate level of detail in each cell
+- All of Part 3A is completed and contains an appropriate number of tasks and appropriate level of detail in each cell. 
+- All of Part 3B is completed; all user story related issues that have been closed have the questions answered with appropriate detail. 
 - Part 4 is completed and demonstrates an appropriate level of thinking (i.e. does not contain superficial responses)
 
 **You are Not** marked on which decisions you picked, how much AI you used, or whether the decision turned out to be right. You are marked on the quality of your critical thinking and reflection.
