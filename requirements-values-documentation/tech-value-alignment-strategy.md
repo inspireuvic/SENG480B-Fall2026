@@ -48,6 +48,30 @@ Ask relevant stakeholders or reviewers to confirm whether the technical artifact
 
 Record their feedback and any resulting changes, link the related stakeholder discussion records or supporting evidence as appropriate. Refer to section 5 of [Sprint Planning Document](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/sprint-documentation/sprint-planning.md).
 
+### 4. Sprints contributions to tech-value alignment
+If you addressed any value-alignment issues or made value-related decisions during the sprint, record the update here for the relevant sprint. You may also provide the related GitHub Issue IDs.
+
+Sprint 1 - Record the decisions and actions taken to translate stakeholder values into requirements and implementation tasks, including any contributions made by AI.
+> 
+
+---
+
+Sprint 2 - 
+Record the Tech-Value Alignment decisions made during Sprint 2, including relevant design and architecture decisions for Tech-Value Alignment, and document how AI contributed to these decisions.
+>
+
+---
+Sprint 3 - 
+Record the Tech-Value Alignment decisions made during Sprint 3, including relevant implementation decisions for Tech-Value Alignment, and document how AI contributed to these decisions.
+>
+
+---
+Sprint 4 - 
+Record the Tech-Value Alignment decisions made during Sprint 4, including relevant testing and verification decisions for Tech-Value Alignment, and document how AI contributed to these decisions.
+>
+
+---
+
 
 ### 5. Tech-Value Alignment submissions
 At each required submission point:
