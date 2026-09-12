@@ -53,7 +53,7 @@ If you addressed any value-alignment issues or made value-related decisions duri
 
 example:
 
-| Sprint | Value ID(s) | Activities and Decisions | Results or Changes | Related GitHub Issues | Remaining Concerns |
+| Sprint | Value ID(s) | Activities and Decisions | Results or Changes | Remaining Concerns |
 |---|---|---|---|---|---|
 | Sprint 4 | VALUE #1 - Usability | Reviewed the prototype with the stakeholder | Increased the text size and simplified navigation | #12, #18 | Colour contrast requires further testing |
 
