@@ -19,7 +19,10 @@ If a value has not yet been recorded, create its Value issue in GitHub before co
 
 Use the following hierarchy to connect stakeholder values to technical work:
 
-<img src="values-artifact.png" alt="Description of the image" width="500">
+<img src="value-hierarchy.jpeg"
+     alt="GitHub tech-value hierarchy"
+     width="400"
+     height="500">
 
 Source: Adapted from [Agbese M. et al., 2025](https://link.springer.com/content/pdf/10.1007/978-3-032-14518-5_8.pdf)
 
