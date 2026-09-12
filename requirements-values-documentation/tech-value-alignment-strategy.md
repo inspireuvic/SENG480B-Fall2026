@@ -41,33 +41,12 @@ For each stakeholder value:
 5. Use the appropriate Epic, Feature, User Story, or Task template in GitHub issues and complete all applicable fields.
 
 ## 3. Validation of Tech-Value Alignment
-Ask the relevant stakeholders or reviewers to confirm whether the technical artifacts support the intended Value. Validation may include reviews of requirements, designs, prototypes, demonstrations, implemented features, or test results.
+Ask relevant stakeholders or reviewers to confirm whether the technical artifacts support the intended stakeholder value. Validation may include reviewing requirements, designs, prototypes, demonstrations, implemented features, or test results.
+Record the feedback, decisions, and resulting changes in the relevant GitHub issues. Where possible, link stakeholder discussion records or other supporting evidence.
+Continue updating the issues as the project progresses. 
 
-Record their feedback and any resulting changes in the relevant GitHub issues. Where possible, link the related stakeholder discussion records or supporting evidence to the appropriate issues. Continue updating the issues as the work progresses.
+During each sprint-planning, identify and plan the tech–value alignment activities to be completed during that sprint. Refer to section 5 in [Sprint Planning Document](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/sprint-documentation/sprint-planning.md)
 
-### 4. Sprints contributions to tech-value alignment
-If you addressed any value-alignment issues or made value-related decisions during the sprint, record the update here for the relevant sprint. You may also provide the related GitHub Issue IDs.
-
-Sprint 1 - Record the decisions and actions taken to translate stakeholder values into requirements and implementation tasks, including any contributions made by AI.
-> 
-
----
-
-Sprint 2 - 
-Record the Tech-Value Alignment decisions made during Sprint 2, including relevant design and architecture decisions for Tech-Value Alignment, and document how AI contributed to these decisions.
->
-
----
-Sprint 3 - 
-Record the Tech-Value Alignment decisions made during Sprint 3, including relevant implementation decisions for Tech-Value Alignment, and document how AI contributed to these decisions.
->
-
----
-Sprint 4 - 
-Record the Tech-Value Alignment decisions made during Sprint 4, including relevant testing and verification decisions for Tech-Value Alignment, and document how AI contributed to these decisions.
->
-
----
 
 ### 5. Tech-Value Alignment submissions
 At each required submission point:
