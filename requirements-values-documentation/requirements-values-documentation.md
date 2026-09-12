@@ -63,6 +63,10 @@ GitHub issues are the source of truth for the detailed requirements and stakehol
 ## 4.1 Requirements
 Add and maintain all requirements in GitHub using the appropriate issue types, such as Epic, Feature, User Story. Link each child issue to its parent issue so that the hierarchy is clear. Maintain the issue hierarchy shown in the following figure.
 
+<img src="requirement-hierarchy.jpeg"
+     alt="GitHub issue hierarchy"
+     width="400"
+     height="500">
 
 Refer to [**_Requirements & Values Elicitation Guidelines_**](./requirements-values-elicitation-guidelines.md) for details about recording requirements in GitHub.
 
