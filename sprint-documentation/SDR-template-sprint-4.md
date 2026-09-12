@@ -130,19 +130,22 @@ If this decision reverses or replaces something from Sprint 1, 2, or 3, say so h
 
 ---
 
-## Part 3- Sprint Decisions Regarding AI Usage
+## Part 3A- Sprint Decisions Regarding AI Usage for Non-Development Tasks
 ## 1. AI Contribution, Evaluation, and Verification
 
-For each **task that you planned to accomplish in your sprint plan**, complete one row of the table below. Focus on meaningful uses of AI rather than minor interactions such as spelling corrections or simple lookups. **Maintain this table as you make decisions during your sprint; do not attempt to compelete it retroactively!** If may include additional tasks if you accomplished more than you set out to in your sprint plan! 
+For each **non-development task you accomplished in this sprint** (e.g writing interview questions, conducting interviews/elicitation, analyzing elicitation notes, etc.) , complete one row of the table below. Focus on meaningful uses of AI rather than minor interactions such as spelling corrections or simple lookups. **Maintain this table as you make decisions during your sprint; do not attempt to compelete it retroactively!** You may include additional tasks if you accomplished more than you set out to do in your sprint plan! 
 
-| Task | GitHub Issue # | Expected AI Contribution | What AI Actually Did | AI Autonomy Level | Human Reviewer(s) | Quality of AI's Work | Changes / Corrections Required | How Was AI's Work Verified? | Problems Identified Through Verification | Anything Initially Convincing but Wrong / Incomplete? | Remaining Uncertainty | Was AI the Right Choice? | Why? |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **What task was AI used for?** | Link or reference the relevant GitHub issue. | What did you expect AI to contribute or accomplish? | What did AI actually produce, recommend, decide, or complete? | **Advisor / Collaborator / Delegate / Agent** | Who reviewed or took responsibility for the AI-supported work? | Evaluate its **correctness, usefulness, completeness, efficiency, and appropriateness**. | What did the team have to change, correct, reject, or redo? | How did you check the work? Examples: testing, code review, requirements, tech-value alignment, trusted sources, stakeholder feedback, accessibility/security review, manual inspection, or comparison of alternatives. | What issues did that review uncover? | Did anything appear correct at first but later prove misleading, incomplete, or wrong? If so, explain. | Is there anything about the AI's output that the team is still uncertain about? | **Definitely / Mostly / Unsure / Probably not / Definitely not** | In hindsight, was using AI for this task justified? Explain why or why not. |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Task | GitHub Issue # (if relevant) | Expected AI Contribution | What AI Actually Did | AI Autonomy Level | Human Reviewer(s) | Quality of AI's Work | Changes / Corrections Required | How Was AI's Work Verified? | Problems Identified Through Verification | Anything Initially Convincing but Wrong / Incomplete? | Remaining Uncertainty | Was AI the Right Choice? | Why? | What was the experience of working with AI on this task?| 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |--- |
+| **What task was AI used for?** | Only if applicable, include link or reference the relevant GitHub issue. | What did you expect AI to contribute or accomplish? | What did AI actually produce, recommend, decide, or complete? | **Advisor / Collaborator / Delegate / Agent** | Who reviewed or took responsibility for the AI-supported work? | Evaluate its **correctness, usefulness, completeness, efficiency, and appropriateness**. | What did the team have to change, correct, reject, or redo? | How did you check the work? Examples: testing, code review, requirements, tech-value alignment, trusted sources, stakeholder feedback, accessibility/security review, manual inspection, or comparison of alternatives. | What issues did that review uncover? | Did anything appear correct at first but later prove misleading, incomplete, or wrong? If so, explain. | Is there anything about the AI's output that the team is still uncertain about? | **Definitely / Mostly / Unsure / Probably not / Definitely not** | In hindsight, was using AI for this task justified? Explain why or why not. | Consider the effort, attention, interaction, coordination, monitoring, verification, corrections, or follow-up involved.|
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ****IMPORTANT: If you have any updates related to Tech-Value Alignment tasks, please update the Tech-Value Alignment Strategy document for the appropriate sprint.****
+
+## Part 3B - Sprint Decisions Regarding AI Usage for Development Tasks
+For each **development task** answer the prompts accurately before closing each user-story related issue. 
 
 ## Part 4 - Sprint Retrospective
 #### Only complete this section during the sprint retrospective in class (at the end of each sprint).
@@ -189,6 +192,7 @@ Consider:
 What slowed the team down, created uncertainty, or did not work as expected?
 
 ## 4. How Did AI Affect the Team?
+### Answer individually on mentimeter first, and then discuss with your team and graduate mentor. 
 
 AI can change not only the artifact being produced, but also how the team works.
 
@@ -211,6 +215,7 @@ AI can change not only the artifact being produced, but also how the team works.
 ---
 
 ## 5. Did AI Change Our Thinking?
+### Answer individually on mentimeter first, and then discuss with your team and graduate mentor. 
 
 Reflect on whether AI influenced how your team understood the problem or made decisions.
 
@@ -238,118 +243,19 @@ _If one of these did not occur during the sprint, please write **N/A** rather th
 
 Your INSPIRE project addresses a real-world or socially meaningful problem. Reflect on whether AI use affected the people, communities, or stakeholders connected to the project.
 
-### Did AI make assumptions about users, stakeholders, or the problem being addressed?
-
->
-
-### Did you identify any concerns involving:
-
-* Bias
-* Accessibility
-* Privacy
-* Representation
-* Safety
-* Any other value in your tech-value alignment document
-* Misinformation
-* Incorrect assumptions about users
-* Loss of important context
-* Other unintended consequences
-
-**Concerns identified:**
-
->
-
-### Did stakeholder or community partner feedback conflict with anything suggested or produced by AI?
-
->
-
-### What did your team do in response?
-
->
-
----
-
-## 7. Human Accountability
-
-### What AI-generated artifact, recommendation, or decision required the most human judgment this sprint?
-
->
-
-### Who ultimately took responsibility for deciding whether that output was appropriate to use?
-
->
-
-### Was there anything delegated to AI that, in retrospect, should have remained primarily human work?
-
->
-
----
-
-# Looking Ahead
-
-## 8. Start, Stop, Continue
-
-### START
-
-Something the team should begin doing next sprint:
-
->
-
-### STOP
-
-Something the team should stop doing:
-
->
-
-### CONTINUE
-
-Something that worked well and should continue:
-
->
-
----
-
-## 9. Our AI Strategy Next Sprint
-
-Based on what happened this sprint:
-
-### We will use AI more for:
-
->
-
-### We will use AI less for:
-
->
-
-### We will change how we supervise or verify AI by:
-
->
-
-### One new way we want to experiment with AI next sprint is:
-
->
-
----
-
-## 10. Team Reflection
-
-As a team, complete a short paragraph outlining what you've learned about working with AI. 
-
-### This sprint taught us that working effectively with AI requires...
-
-
 
 ## Marking
 
 Marked on completeness and clarity:
 
 - Every question answered
-- Part 1- Question 2 names a real alternative, or honestly says none was considered
-- Part 2- All parts are complete and question 4 is accurate
-- All of Part 3 is completed and contains an appropriate number of tasks and appropriate level of detail in each cell.
-- Part 4 is completed and demonstrates an appropriate level of thinking (i.e. does not contain superficial responses). 
+- Part 1 — every component marked, with `not sure yet` / `undecided` accepted as a valid answer
+- Part 2 — all parts complete and question 4 is accurate
+- All of Part 3A is completed and contains an appropriate number of tasks and appropriate level of detail in each cell. 
+- All of Part 3B is completed; all user story related issues that have been closed have the questions answered with appropriate detail. 
+- Part 4 is completed and demonstrates an appropriate level of thinking (i.e. does not contain superficial responses)
 
-**You are Not** marked on which decisions you picked, how much AI you used, or whether the decision turned out to be right. You are marked on the quality of your critical thinking and reflection. 
+**You are Not** marked on which decisions you picked, how much AI you used, or whether the decision turned out to be right. You are marked on the quality of your critical thinking and reflection.
 
 ---
 
