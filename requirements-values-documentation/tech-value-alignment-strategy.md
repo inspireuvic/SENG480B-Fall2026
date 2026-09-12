@@ -63,3 +63,4 @@ At each required submission point:
 
 1. **[Requirements and Values Elicitation Guidelines](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/requirements-values-documentation/requirements-values-elicitation-guidelines.md)**
 2. **[Requirements and Values Document](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/requirements-values-documentation/requirements-values-documentation.md)**
+3. **[Sprint Planning Document](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/sprint-documentation/sprint-planning.md)**
