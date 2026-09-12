@@ -81,7 +81,7 @@ This is only one possible interpretation of the stakeholder’s response. Additi
 
 ## 2.3 Recording requirements in GitHub
 
-Use the Epic, Feature, and User Story issue templates provided in the sample repository. Copy the entire `.github/ISSUE_TEMPLATE` folder into your team repository.
+Use the Epic, Feature, and User Story issue templates provided in the sample repository. Copy the entire `.github` folder into your team repository.
 
 For every issue:
 
