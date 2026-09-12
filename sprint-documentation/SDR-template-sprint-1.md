@@ -118,7 +118,7 @@ For each **non-development task you accomplished in this sprint** (e.g writing i
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-****IMPORTANT: If you have any updates related to Tech-Value Alignment tasks, please update the [Tech-Value Alignment Strategy](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/requirements-values-documentation/tech-value-alignment-strategy.md) document for the appropriate sprint.****
+****IMPORTANT: If you have any updates related to Tech-Value Alignment tasks, please update the [Tech-Value Alignment Strategy Document](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/requirements-values-documentation/tech-value-alignment-strategy.md) for the appropriate sprint.****
 
 ## Part 3B - Sprint Decisions Regarding AI Usage for Development Tasks
 For each **development task** answer the prompts accurately before closing each user-story related issue. 
