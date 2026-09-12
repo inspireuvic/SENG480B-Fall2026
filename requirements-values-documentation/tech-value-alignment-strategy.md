@@ -52,7 +52,7 @@ Record their feedback and any resulting changes, link the related stakeholder di
 If you addressed any value-alignment issues or made value-related decisions during the sprint, provide the appropriate detail for the sprint.
 
 example:
-During Sprint 4, we addressed VALUE #1 – Usability by reviewing the prototype with the stakeholder. Based on the feedback, we increased the text size and simplified the navigation. Colour contrast still requires further testing in the next sprint. See GitHub Issue #XX for details.
+During Sprint 4, we addressed VALUE #1 – Usability by reviewing the prototype with the stakeholder. Based on the feedback, we increased the text size and simplified the navigation. Colour contrast still requires further testing in the next sprint.
 
 
 Sprint 1 - Record the decisions and actions taken to translate stakeholder values into requirements and implementation tasks, including any contributions made by AI.
