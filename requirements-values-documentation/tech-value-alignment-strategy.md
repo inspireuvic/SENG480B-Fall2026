@@ -41,11 +41,10 @@ For each stakeholder value:
 5. Use the appropriate Epic, Feature, User Story, or Task template in GitHub issues and complete all applicable fields.
 
 ## 3. Validation of Tech-Value Alignment
-Ask relevant stakeholders or reviewers to confirm whether the technical artifacts support the intended stakeholder value. Validation may include reviewing requirements, designs, prototypes, demonstrations, implemented features, or test results.
-Record the feedback, decisions, and resulting changes in the relevant GitHub issues. Where possible, link stakeholder discussion records or other supporting evidence.
-Continue updating the issues as the project progresses. 
+Ask relevant stakeholders or reviewers to confirm whether the technical artifacts support the intended stakeholder values. Validation may include reviewing requirements, designs, prototypes, demonstrations, implemented features, or test results.
 
-During each sprint-planning, identify and plan the activities that can affect tech–value alignment during that sprint. Refer to Section 5 of the [Sprint Planning Document](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/sprint-documentation/sprint-planning.md)
+
+
 
 
 ### 5. Tech-Value Alignment submissions
