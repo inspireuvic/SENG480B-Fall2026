@@ -45,7 +45,7 @@ Ask relevant stakeholders or reviewers to confirm whether the technical artifact
 Record the feedback, decisions, and resulting changes in the relevant GitHub issues. Where possible, link stakeholder discussion records or other supporting evidence.
 Continue updating the issues as the project progresses. 
 
-During each sprint-planning, identify and plan the tech–value alignment activities to be completed during that sprint. Refer to section 5 in [Sprint Planning Document](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/sprint-documentation/sprint-planning.md)
+During each sprint-planning, identify and plan the activities that can affect tech–value alignment during that sprint. Refer to Section 5 of the [Sprint Planning Document](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/sprint-documentation/sprint-planning.md)
 
 
 ### 5. Tech-Value Alignment submissions
