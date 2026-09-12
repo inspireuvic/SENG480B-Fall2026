@@ -51,7 +51,7 @@ Record their feedback and any resulting changes, link the related stakeholder di
 ### 4. Sprints contributions to tech-value alignment
 If you addressed any value-alignment issues or made value-related decisions during the sprint, provide the appropriate detail for the sprint.
 
-example:
+_example_:
 During Sprint 4, we addressed VALUE #1 – Usability by reviewing the prototype with the stakeholder. Based on the feedback, we increased the text size and simplified the navigation. Colour contrast still requires further testing in the next sprint.
 
 
