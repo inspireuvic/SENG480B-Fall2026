@@ -24,7 +24,7 @@ Use the following hierarchy to connect stakeholder values to technical work:
      width="400"
      height="500">
 
-Source: Adapted from [Agbese M. et al., 2025](https://link.springer.com/content/pdf/10.1007/978-3-032-14518-5_8.pdf)
+Reference: [Agbese M. et al., 2025](https://link.springer.com/content/pdf/10.1007/978-3-032-14518-5_8.pdf)
 
 Maintain the Following Hierarchy:
 
