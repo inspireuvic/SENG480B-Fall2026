@@ -1,6 +1,6 @@
 ## Survey Links for Team Assessments
 
-|                   | Link | Due Date (always due 11:59pm) |
+| Assessment        | Link | Due Date (always due 11:59pm) |
 |-------------------|------|----------|
 | Team Assessment 1 | [click-here](To be provided) | Oct 15    |
 | Team Assessment 2 | [click-here](To be provided) | Oct 26    |
