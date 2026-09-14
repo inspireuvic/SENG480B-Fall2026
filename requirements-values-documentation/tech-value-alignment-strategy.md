@@ -1,10 +1,11 @@
 # Tech–Value Alignment Strategy
 
-se this document throughout the project to connect identified stakeholder values with related requirements and technical work. Update it whenever new requirements or values are identified or when related design, implementation, testing, or stakeholder feedback changes.
+Use this document throughout the project to connect identified stakeholder values to related requirements and technical work. Update it whenever new requirements or values are identified, stakeholder feedback is received, or related technical work changes.
 
-**Tech–value alignment** is the process of connecting stakeholder values to technical artifacts—such as requirements, designs, code, and tests—and checking whether the resulting product supports those values.
+**Tech–value alignment** means ensuring that the product’s requirements, design, implementation, and tests reflect and support stakeholder values.
 
-This document records those connections, their validation, and changes made during development. Continue using the GitHub issue templates described in the **Requirements & Values Elicitation Guidelines**; do not duplicate complete issue records here.
+Use the relevant GitHub issues to record detailed connections, decisions, feedback, AI contributions, and revisions. Use this document to summarize the team’s overall approach and progress without repeating the complete issue records.
+
 
 
 ### 1. Confirm the Value gitHub issue 
