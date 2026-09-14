@@ -110,7 +110,7 @@ When reviewing AI-generated work, collaboration is especially important. AI outp
 Therefore, your team should therefore focus not only on **whether something works**, but also on whether it is appropriate, justified, understandable, and aligned with the goals of the project.
 
 > **Peer review requirements:**  
-> The course deliverables include a graded peer review component so you can evaluate the collaboration skills of your fellow teammates. At the end of every sprint you will fill up a peer review survey. The instructions for, and links to these surveys will be provided in the [peer review resources folder](https://github.com/inspireuvic/SENG480B-Fall2026/tree/main/peer-review-resources). 
+> The course deliverables include a graded peer review component so you can evaluate the collaboration skills of your fellow teammates. At the end of every sprint you will fill up a peer review survey. The instructions for, and [links](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/peer-review-resources/survey-links.md) to these surveys will be provided in the [peer review resources folder](https://github.com/inspireuvic/SENG480B-Fall2026/tree/main/peer-review-resources). 
 
 ---
 
