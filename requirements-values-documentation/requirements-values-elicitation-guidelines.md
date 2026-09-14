@@ -39,7 +39,16 @@ Here is some [interviewing tips](https://github.com/inspireuvic/SENG480B-Fall202
 ## 2.1 Hints for requirement elicitation questions
 Use open-ended questions to understand stakeholders’ current experiences, goals, and difficulties before discussing possible features.
 
-**Example elicitation Question:**
+Example questions might include: 
+- what is the problem you are trying to solve>
+- why is the problem important? what would success look like?
+- who are the primary users/beneficiaries?
+- who else interacts with or is affected by the solution?
+- which activities should the solution support? which activities should **not** support?
+- what resources are available?
+- **who are the main stakeholders and how can we interact with them during the project? ** This is an important question to ask first, to identify future stakeholder meetings. If possible, try to always schedule the next meeting during the current meeting (not by email follow)
+
+**Example elicitation Question and how stakeholders might answer:**
  
 Can you describe how you currently submit an assignment using the existing application, from beginning to end? What works well, and what difficulties do you experience?
 
@@ -47,7 +56,7 @@ Can you describe how you currently submit an assignment using the existing appli
 
 >_“I upload a PDF file assignment and wait for confirmation.  It is sometimes difficult to tell whether I uploaded the correct file or whether the submission was successful. I would like to see the submitted file name, preview or download the file afterward, and replace it before the deadline if I uploaded the wrong file”_
 
-**Hints on how to  derive requirements**
+**Hints on how to  derive requirements from high level to lower level, implementable github issues**
 From stakeholder discussions, identify:
 
 The broad outcome or service the product should support (Epic).
