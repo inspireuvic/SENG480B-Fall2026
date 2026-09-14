@@ -54,7 +54,7 @@ Using AI effectively requires more than prompting a tool and accepting its outpu
 Your team remains responsible for the work you submit, including work produced with AI assistance.
 
 > **AI use expectations:**  
-> Your team has autonomy over when and how to use AI. The sprint documentation will help you to plan and reflect on your use of AI. Sprint documentation (template will be provided) to be maintained for each sprint. 
+> Your team has autonomy over when and how to use AI. The [templates in the sprint documentation folder](https://github.com/inspireuvic/SENG480B-Fall2026/tree/main/sprint-documentation)  will help you to plan and reflect on your use of AI. Sprint documentation is to be maintained for each sprint. 
 
 ---
 
@@ -110,7 +110,7 @@ When reviewing AI-generated work, collaboration is especially important. AI outp
 Therefore, your team should therefore focus not only on **whether something works**, but also on whether it is appropriate, justified, understandable, and aligned with the goals of the project.
 
 > **Peer review requirements:**  
-> The course deliverables include a graded peer review component so you can evaluate the collaboration skills of your fellow teammates. At the end of every sprint you will fill up a peer review survey. The instructions for, and links to these surveys will be provided. 
+> The course deliverables include a graded peer review component so you can evaluate the collaboration skills of your fellow teammates. At the end of every sprint you will fill up a peer review survey. The instructions for, and links to these surveys will be provided in the [peer review resources folder](https://github.com/inspireuvic/SENG480B-Fall2026/tree/main/peer-review-resources). 
 
 ---
 
@@ -135,7 +135,7 @@ Your team should be able to explain:
 You should expect to revisit these questions throughout the course as your understanding of the problem develops.
 
 > **Value and strategy expectations:**  
-> _You will maintain a Tech-Value Alignment Strategy document (template will be provided) throughout the semester to capture how the technology you build connects to your project's values._
+> _You will maintain a [Tech-Value Alignment Strategy document](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/requirements-values-documentation/tech-value-alignment-strategy.md) throughout the semester to capture how the technology you build connects to your project's values._
 
 ---
 
@@ -160,14 +160,14 @@ Each development sprint follows the same general cycle.
 
 #### 1. Sprint Planning
 
-Each sprint begins with an **in-class Sprint Planning session**. We will provide a sprint template for this activity, as you must submit your sprint plans. 
+Each sprint begins with an **in-class Sprint Planning session**. To complete this activity, complete the [sprint planning template](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/sprint-documentation/sprint-planning.md), as you must submit your sprint plans. 
 
 Teams identify what they intend to accomplish during the sprint, establish priorities, identify key tasks and responsibilities, and determine how the work contributes to the larger project goals.
 
 #### 2. Develop and Maintain the Sprint Decision Record (SDR)
 
 Throughout the sprint, teams maintain a single **Sprint Decision Record (SDR)**. 
-**Templates for the SDRs will be provided. Use the template for the corresponding sprint. For example, in Sprint 1, use the SDR template for sprint 1. 
+**[Templates for the SDRs](https://github.com/inspireuvic/SENG480B-Fall2026/tree/main/sprint-documentation) are provided. Use the template for the corresponding sprint. For example, in Sprint 1, use the SDR template for sprint 1. 
 
 The SDR is a living document that captures important decisions as the project develops, rather than asking teams to reconstruct those decisions at the end of the sprint.
 
@@ -180,7 +180,7 @@ Records significant technical and architectural decisions made during the sprint
 ##### Part 2: Documenting a Major Decision 
 Records ome significant decision throughout the sprint, and the logic behind it. 
 
-##### Part 3: Sprint Decisions Regarding AI Usage
+##### Part 3: Non-Development Sprint Decisions Regarding AI Usage
 Records how generative or agentic AI contributed to the sprint, including decisions about:
 
 * where and why AI was used;
@@ -195,13 +195,13 @@ Records how generative or agentic AI contributed to the sprint, including decisi
 
 The final section of the SDR contains the questions that guide the team's **Sprint Retrospective**.
 
-Unlike Parts 1 and 2, **Part 4 should only be completed at the end of the sprint during the in-class retrospective session**.
+Unlike Parts 1, 2, 3, **Part 4 should only be completed at the end of the sprint during the in-class retrospective session**.
 
 This structure allows teams to submit **one complete SDR at the end of each sprint**, rather than several separate smaller deliverables.
 
 #### 3. Maintain and Refine the Tech-Value Alignment Document
 
-Alongside the SDR, teams maintain a **Tech-Value Alignment Document across the project**.
+Alongside the SDR, teams maintain a **[Tech-Value Alignment Strategy](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/requirements-values-documentation/tech-value-alignment-strategy.md) across the project**.
 
 As teams learn more about their stakeholders, project context, potential impacts, and the values embedded in or affected by their technology, they are expected to **revisit and update this document**.
 
@@ -363,7 +363,7 @@ Throughout each sprint, teams maintain a single **Sprint Decision Record (SDR)**
 2. **Major Decision**
    Record a major decision and the logic behind the decision.
 
-3. **Decisions Regarding AI Usage**  
+3. **Non-Development Decisions Regarding AI Usage**  
    Significant decisions about the team's use of generative and/or agentic AI, including where AI was used, what role it played, how its outputs were evaluated and validated, and whether its use added value.
 
 4. **Sprint Retrospective**  
