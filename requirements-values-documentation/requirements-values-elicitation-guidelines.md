@@ -71,7 +71,7 @@ Students should maintain the hierarchy from broad outcomes to specific, testable
 
 Epic → Feature → User Story
 
-**Epic** is  broad stakeholder outcome that is too large to implement at once and will require multiple features or user stories.
+**Epic** is a broad stakeholder outcome that is too large to implement at once and will require multiple features or user stories.
 
 example:
 _Assignment Submission Management_ — Enable students to submit assignment work confidently before a deadline.
