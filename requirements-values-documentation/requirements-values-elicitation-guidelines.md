@@ -46,7 +46,7 @@ Example questions might include:
 - who else interacts with or is affected by the solution? how would they interact with the solution?
 - which activities should the solution support? which activities should **not** support?
 - what resources are available?
-- **who are the main stakeholders and how can we interact with them during the project? ** This is an important question to ask first, to identify future stakeholder meetings. If possible, try to always schedule the next meeting during the current meeting (not by email follow)
+- **who are the main stakeholders and how can we interact with them during the project?** This is an important question to ask first, to identify future stakeholder meetings. If possible, try to always schedule the next meeting during the current meeting (not by email follow)
 
 **Example elicitation Question and how stakeholders might answer:**
  
