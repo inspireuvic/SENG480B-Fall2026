@@ -4,8 +4,7 @@
 #### These reports are not optional. 
 
 Each student is required to create several reports documenting the assessment of each team member of your group,
-including yourself. There will be an assessment **after each project iteration.** Thus, there are a total of 4 assessments.
-
+including yourself. There will be an assessment **after each project iteration.** In addition, there will be a **PREP Sprint peer review**, for a total of 5 assessments
 Each report should document who did what during the iteration for each person, and your assessment of that person, again,
 including yourself. 
 
