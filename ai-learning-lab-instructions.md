@@ -31,7 +31,7 @@ By using the AI Learning Lab you agree to the following:
 |---|---|---|---|---|---|---|
 | `qwen3-6-35b-a3b-vllm` **(default)** | Code generation and explanation, agent tasks, screenshots and diagrams | 87,500 tokens | 10,304 tokens | Yes | Yes | Yes |
 | `ministral-3-3b-cpu` | Code completion, quick chat, summaries | 112,000 tokens | 16,000 tokens | Yes | No | No |
-| `chandra-ocr-2` | OCR: turns images and scanned documents into text | 20,480 tokens | 12,384 tokens | No | Yes | No |
+| `chandra-ocr-2-vllm` | OCR: turns images and scanned documents into text | 20,480 tokens | 12,384 tokens | No | Yes | No |
 
 **`qwen3-6-35b-a3b-vllm` is the default model for code generation and explanation.** It is Qwen3.6-35B-A3B, a mixture-of-experts model (35B parameters total, about 3B active per token) served on GPU with vLLM. It supports tool calling, image input (screenshots, UI mockups, diagrams), and reasoning, meaning it "thinks" before answering. That thinking uses part of the 10k output budget, so very long answers may get cut off. Use it for anything code related.
 
