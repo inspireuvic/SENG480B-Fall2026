@@ -37,7 +37,7 @@ By using the AI Learning Lab you agree to the following:
 
 **`ministral-3-3b-cpu`** is a small (3B parameter) Mistral model running on CPU. It is a task model for things like auto-complete for coding. Configure auto-completion on your client. It handles text only, with a large 112k context window (roughly 80k words), but it is slower and less capable than Qwen. Use it for light tasks or as a fallback when Qwen is busy.
 
-**`chandra-ocr-2`** reads images and scanned pages (handwriting, tables, forms, math) and returns structured text. **Max image size: 6,291,456 pixels (about 2508 x 2508).** 
+**`chandra-ocr-2-vllm`** reads images and scanned pages (handwriting, tables, forms, math) and returns structured text. **Max image size: 6,291,456 pixels (about 2508 x 2508).** 
 
 ### Services
 
