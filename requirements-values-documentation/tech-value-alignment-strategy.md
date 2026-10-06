@@ -44,13 +44,13 @@ For each stakeholder value:
 4. Break the epic down into appropriate features, user stories, and their sub tasks.
 5. Use the appropriate Epic, Feature, User Story, or Task template in GitHub issues and complete all applicable fields.
 
-### 3. Validation of Tech-Value Alignment
+<!-- ### 3. Validation of Tech-Value Alignment
 Ask relevant stakeholders or reviewers to confirm whether the technical artifacts support the intended stakeholder values. Validation may include reviewing requirements, designs, prototypes, demonstrations, implemented features, or test results.
 
-Record their feedback and any resulting changes, link the related stakeholder discussion records or supporting evidence as appropriate. Refer to section 5 of [Sprint Planning Document](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/sprint-documentation/sprint-planning.md).
+Record their feedback and any resulting changes, link the related stakeholder discussion records or supporting evidence as appropriate. Refer to section 5 of [Sprint Planning Document](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/sprint-documentation/sprint-planning.md). -->
 
 
-### 4. Tech-Value Alignment submissions
+### 3. Tech-Value Alignment submissions
 At each required submission point:
 
 - Export the value-related Epics and their linked Features, User Stories, and Tasks.
@@ -61,6 +61,10 @@ At each required submission point:
 **Tech-Value Alignment export:** [Add link]  
 **Live GitHub Tech-Value Alignment view:** [Add link]
 
+### 4. Submit evidence documents
+  - Related Stakeholder interviews notes
+  - Related Developer discussion note
+    
 ## Related Project Documents
 
 1. **[Requirements and Values Elicitation Guidelines](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/requirements-values-documentation/requirements-values-elicitation-guidelines.md)**
