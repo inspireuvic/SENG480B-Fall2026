@@ -45,10 +45,7 @@ For each stakeholder value:
 5. Use the appropriate Epic, Feature, User Story, or Task template in GitHub issues and complete all applicable fields.
 
  ### 2.2 Validation of Tech-Value Alignment
-For each Feature, include a verification plan. You can refer to the REAction co-design principles for guidance.
-<!-- Ask relevant stakeholders to confirm whether the technical artifacts support the intended stakeholder values. Validation may include reviewing requirements, designs, prototypes, demonstrations, implemented features, or test results.
-
-Record their feedback and any resulting changes, link the related stakeholder discussion records or supporting evidence as appropriate. Refer to section 5 of [Sprint Planning Document](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/sprint-documentation/sprint-planning.md). -->
+<!-- For each Feature, include a verification plan under the review and validation section in the GitHub issue. You can refer to the REAction co-design principles for guidance. -->
 
 
 ### 3. Tech-Value Alignment submissions
