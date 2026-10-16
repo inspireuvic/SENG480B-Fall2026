@@ -47,6 +47,8 @@ For each stakeholder value:
 ### 2.2 Validation of Tech-Value Alignment 
 For each Feature, include a verification plan under the review and validation section in the GitHub issue. You can refer to the REAction co-design principles for guidance.
 
+Address according [section 5 in sprint planning](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/sprint-documentation/sprint-planning.md)
+
 
 ### 3. Tech-Value Alignment submissions
 At each required submission point:
