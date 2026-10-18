@@ -44,10 +44,19 @@ For each stakeholder value:
 4. Break the epic down into appropriate features, user stories, and their sub tasks.
 5. Use the appropriate Epic, Feature, User Story, or Task template in GitHub issues and complete all applicable fields.
 
-### 2.2 Validation of Tech-Value Alignment 
+ ### 2.2 Validation of Tech-Value Alignment 
 For each Feature, include a verification plan under the review and validation section in the GitHub issue. You can refer to the REAction co-design principles for guidance.
 
 Address accordingly [section 5 in sprint planning](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/sprint-documentation/sprint-planning.md)
+
+### 2.3 Tech-value alignment validation matrix
+| Value | Epic | Feature | Stakeholder Satisfaction with Value Alignment in the Final Product |
+|-------|------|---------|--------------------------------------------------------------------|
+| Value1 | Epic1 | Feature1 | Feedback1 |
+|        |       | Feature2 | Feedback2 |
+|        | Epic2 | Feature3 | Feedback3 |
+| Value2 | Epic3 | Feature4 | Feedback4 |
+
 
 
 ### 3. Tech-Value Alignment submissions
