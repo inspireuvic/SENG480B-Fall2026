@@ -47,7 +47,7 @@ For each stakeholder value:
 ### Section 2.2 and 2.3 are for Tech-Value alignment strategy iteration 2
 
  ### 2.2 Validation of Tech-Value Alignment 
-For each Feature, include a verification plan under the review and validation section in the GitHub issue. You can refer to the REAction co-design principles for guidance.
+For each Feature, include a verification plan under the review and validation section in the GitHub issue. 
 
 ### 2.3 Tech-value alignment validation matrix
 Provide stakeholders’ satisfaction levels for how each value is reflected in the final product, linked to the corresponding Features.
