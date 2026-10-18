@@ -63,7 +63,7 @@ eg:
 
 ### 2.4 New or Changed Stakeholder Values
 
-During the verification and validation of the final Features, identify whether stakeholders or the team found any new values that were not identified or planned for earlier in the project, or whether any previously identified values changed in importance or meaning.
+During the verification and validation of the final features, identify whether stakeholders or the team found any new values that were not identified or planned for earlier in the project, or whether any previously identified values changed in importance or meaning.
 
 Document:
 - Any newly identified stakeholder values
