@@ -59,7 +59,7 @@ eg:
 |        | Epic2 | Feature3 | Feedback3 |
 | Value2 | Epic3 | Feature4 | Feedback4 |
 
-
+***Note: Provide all the evidence documents on stakeholder testing and verification on final features***
 
 ### 3. Tech-Value Alignment submissions
 At each required submission point:
