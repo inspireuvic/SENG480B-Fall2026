@@ -44,7 +44,7 @@ For each stakeholder value:
 4. Break the epic down into appropriate features, user stories, and their sub tasks.
 5. Use the appropriate Epic, Feature, User Story, or Task template in GitHub issues and complete all applicable fields.
 
-### Section 2.2 and 2.3 are for Tech-Value alignment strategy iteration 2
+### Section 2.2, 2.3 and 2.4 are for Tech-Value alignment strategy iteration 2
 
  ### 2.2 Validation of Tech-Value Alignment 
 For each Feature, include a verification plan under the review and validation section in the GitHub issue. 
@@ -60,6 +60,18 @@ eg:
 | Value2 | Epic3 | Feature4 | Feedback4 |
 
 ***Note: Provide all the evidence documents on stakeholder testing and verification on final features***
+
+### 2.4 New or Changed Stakeholder Values
+
+During the verification and validation of the final Features, identify whether stakeholders or the team found any new values that were not identified or planned for earlier in the project, or whether any previously identified values changed in importance or meaning.
+
+Document:
+- Any newly identified stakeholder values
+- Any changes to previously identified values
+- How these new or changed values should be addressed or implemented in the final product
+- The stakeholder feedback or other evidence that led to identifying the new or changed values
+
+
 
 ### 3. Tech-Value Alignment submissions
 At each required submission point:
