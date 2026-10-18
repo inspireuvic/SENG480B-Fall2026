@@ -50,6 +50,8 @@ For each Feature, include a verification plan under the review and validation se
 Address accordingly [section 5 in sprint planning](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/sprint-documentation/sprint-planning.md)
 
 ### 2.3 Tech-value alignment validation matrix
+Provide stakeholders’ satisfaction levels for how each value is reflected in the final product, linked to the corresponding Features.
+eg:
 | Value | Epic | Feature | Stakeholder Satisfaction with Value Alignment in the Final Product |
 |-------|------|---------|--------------------------------------------------------------------|
 | Value1 | Epic1 | Feature1 | Feedback1 |
