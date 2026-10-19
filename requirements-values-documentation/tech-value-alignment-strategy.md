@@ -46,11 +46,11 @@ For each stakeholder value:
 
 ### Section 2.2, 2.3 and 2.4 are for Tech-Value alignment strategy iteration 2
 
- ### 2.2 Validation of Tech-Value Alignment 
-For each Feature, include a verification plan under the review and validation section in the GitHub issue. 
+ ### 2.2 Verification of Tech-Value Alignment 
+For each Feature, include a verification plan in its GitHub issue. The plan should describe how stakeholders will be involved in testing and verifying whether the implemented values align with their expectations.
 
-### 2.3 Tech-value alignment validation matrix
-Provide stakeholders’ satisfaction levels for how each value is reflected in the product, linked to the corresponding Features.
+### 2.3 Tech-value alignment validation & verification matrix
+For each value, document stakeholders’ satisfaction levels and explain how the value is reflected in the product linked to the corresponding features.
 eg:
 | Value | Epic | Feature | Stakeholder Satisfaction with Value Alignment in the features |
 |-------|------|---------|--------------------------------------------------------------------|
