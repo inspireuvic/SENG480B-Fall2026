@@ -97,8 +97,9 @@ Add the export date and a link below.
 **Values issue export:** [Add link]  
 **Live GitHub Values view:** [Add link]
 
-## 4.3 Tech - Values alignment summary
-For each value, document stakeholders’ satisfaction level (satisfied, unsatisfied, partially satisfied) and feedback for the corresponding feature.
+## 4.3 Tech - Values alignment summary map
+For each value, document stakeholders’ feedback on their satisfaction on how far their values are satisfied in related feature.
+
 eg:
 | Value | Epic | Feature | Satisfaction level | Summarize stakeholder feedback on satisfaction with value alignment in each feature |
 |-------|------|---------|--------------------|-----------------------------------------------|
