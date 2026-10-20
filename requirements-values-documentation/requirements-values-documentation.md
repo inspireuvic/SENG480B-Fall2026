@@ -101,7 +101,7 @@ Add the export date and a link below.
 For each value, document stakeholders’ satisfaction level (satisfied, unsatisfied, partially satisfied) and feedback for the corresponding feature.
 eg:
 | Value | Epic | Feature | Satisfaction level | Summarize stakeholder feedback on satisfaction with value alignment in each feature |
-|-------|------|---------|--------------------------------------------------------------------|
+|-------|------|---------|--------------------|-----------------------------------------------|
 | Value1 | Epic1 | Feature1 | satisfied | Feedback1 |
 |        |       | Feature2 | unsatisfied | Feedback2 |
 |        | Epic2 | Feature3 | partially satisfied | Feedback3 |
