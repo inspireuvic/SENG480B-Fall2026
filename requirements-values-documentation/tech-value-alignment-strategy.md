@@ -48,6 +48,7 @@ For each stakeholder value:
  ### 2.2 Validation of Tech-Value Alignment 
 For each Feature, include a validation plan in its GitHub issue. The plan should describe how stakeholders will be involved in testing and verifying whether the implemented values align with their expectations.
 
+At execution of validation plan, you can use the section 4.3 in requirement and value document for recording the validation results and submit with final requirement and value document submission.
 
 ### 3. Tech-Value Alignment submissions
 At each required submission point:
