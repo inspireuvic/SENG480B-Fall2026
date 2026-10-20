@@ -7,7 +7,6 @@ Use this document throughout the project to connect identified stakeholder value
 Use the relevant GitHub issues to record detailed connections, decisions, feedback, AI contributions, and revisions. Use this document to summarize the team’s overall approach and progress without repeating the complete issue records.
 
 
-
 ### 1. Confirm the Value gitHub issue 
 Confirm that each identified stakeholder value:
 
@@ -44,33 +43,10 @@ For each stakeholder value:
 4. Break the epic down into appropriate features, user stories, and their sub tasks.
 5. Use the appropriate Epic, Feature, User Story, or Task template in GitHub issues and complete all applicable fields.
 
-### Section 2.2, 2.3 and 2.4 are for Tech-Value alignment strategy iteration 2
+### Section 2.2 for Tech-Value alignment strategy iteration 2
 
  ### 2.2 Validation of Tech-Value Alignment 
 For each Feature, include a validation plan in its GitHub issue. The plan should describe how stakeholders will be involved in testing and verifying whether the implemented values align with their expectations.
-
-### 2.3 Tech-value alignment validation matrix
-For each value, document stakeholders’ satisfaction levels and explain how the value is reflected in the product linked to the corresponding features.
-eg:
-| Value | Epic | Feature | Stakeholder Satisfaction with Value Alignment in the features |
-|-------|------|---------|--------------------------------------------------------------------|
-| Value1 | Epic1 | Feature1 | Feedback1 |
-|        |       | Feature2 | Feedback2 |
-|        | Epic2 | Feature3 | Feedback3 |
-| Value2 | Epic3 | Feature4 | Feedback4 |
-
-***Note: Provide all the evidence documents on stakeholder testing and verification on features***
-
-### 2.4 New or Changed Stakeholder Values
-
-During the verification and validation of the final features, identify whether stakeholders or the team found any new values that were not identified or planned for earlier in the project, or whether any previously identified values changed in importance or meaning.
-
-Document:
-- Any newly identified stakeholder values
-- Any changes to previously identified values
-- How these new or changed values should be addressed or implemented in the final product
-- The stakeholder feedback or other evidence that led to identifying the new or changed values
-
 
 
 ### 3. Tech-Value Alignment submissions
