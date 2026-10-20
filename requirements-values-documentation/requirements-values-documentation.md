@@ -97,6 +97,19 @@ Add the export date and a link below.
 **Values issue export:** [Add link]  
 **Live GitHub Values view:** [Add link]
 
+## 4.3 Tech - Values alignment summary
+For each value, document stakeholders’ satisfaction levels and explain how the value is reflected in the product linked to the corresponding features.
+eg:
+| Value | Epic | Feature | Summarize stakeholder feedback on satisfaction with value alignment in each feature |
+|-------|------|---------|--------------------------------------------------------------------|
+| Value1 | Epic1 | Feature1 | Feedback1 |
+|        |       | Feature2 | Feedback2 |
+|        | Epic2 | Feature3 | Feedback3 |
+| Value2 | Epic3 | Feature4 | Feedback4 |
+
+***Note: - Provide all the evidence documents on stakeholder testing and verification on features
+         - Provide any details if they find out any missing values they like to have.***
+
 
 # 5 Supporting Evidence and References
 Link to the `supporting-documents` folders or files that contain the elicitation and review evidence.
