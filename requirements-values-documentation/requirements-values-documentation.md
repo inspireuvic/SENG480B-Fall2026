@@ -102,10 +102,10 @@ For each value, document stakeholders’ satisfaction level (satisfied, unsatisf
 eg:
 | Value | Epic | Feature | Satisfaction level | Summarize stakeholder feedback on satisfaction with value alignment in each feature |
 |-------|------|---------|--------------------------------------------------------------------|
-| Value1 | Epic1 | Feature1 | Feedback1 |
-|        |       | Feature2 | Feedback2 |
-|        | Epic2 | Feature3 | Feedback3 |
-| Value2 | Epic3 | Feature4 | Feedback4 |
+| Value1 | Epic1 | Feature1 | satisfied | Feedback1 |
+|        |       | Feature2 | unsatisfied | Feedback2 |
+|        | Epic2 | Feature3 | partially satisfied | Feedback3 |
+| Value2 | Epic3 | Feature4 | satisfied | Feedback4 |
 
 ***Note: - Provide all the evidence documents on stakeholder testing and validation on features
          - Provide any details if they find out any missing values they like to have.***
