@@ -103,10 +103,10 @@ You may update the results in a simple table so it will show the stakeholder sat
 eg:
 | Value | Epic | Feature | Stakeholder | Satisfaction level | Summarize stakeholder feedback on satisfaction with value alignment in each feature |
 |-------|------|---------|-----------------------|-----------------|-------------------------------------------|
-| Value1 | Epic1 | Feature1 |Stakeholder A | satisfied | Feedback1 |
-|        |       | Feature2 |Stakeholder A | unsatisfied | Feedback2 |
-|        | Epic2 | Feature3 |Stakeholder B | partially satisfied | Feedback3 |
-| Value2 | Epic3 | Feature4 |Stakeholder C | satisfied | Feedback4 |
+| Value1 | Epic1 | Feature1 |Stakeholder&nbsp;A | satisfied | Feedback1 |
+|        |       | Feature2 |Stakeholder&nbsp;A  | unsatisfied | Feedback2 |
+|        | Epic2 | Feature3 |Stakeholder&nbsp;B | partially satisfied | Feedback3 |
+| Value2 | Epic3 | Feature4 |Stakeholder&nbsp;C | satisfied | Feedback4 |
 
 ***Note: - Provide all the evidence documents on stakeholder testing and validation on features
          - Provide any details if they find out any missing values they like to have.***
