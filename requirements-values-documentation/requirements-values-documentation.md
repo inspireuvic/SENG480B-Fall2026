@@ -102,7 +102,7 @@ For each value, document stakeholders’ feedback on their satisfaction on how f
 You may update the results in a simple table so it will show the stakeholder satisfaction and who gave the feedback
 eg:
 | Value | Epic | Feature | Stakeholder | Satisfaction level | Summarize stakeholder feedback on satisfaction with value alignment in each feature |
-|-------|------|---------|--------------------|-----------------|-----------------------------------------------|
+|-------|------|---------|-----------------------|-----------------|-------------------------------------------|
 | Value1 | Epic1 | Feature1 |Stakeholder A | satisfied | Feedback1 |
 |        |       | Feature2 |Stakeholder A | unsatisfied | Feedback2 |
 |        | Epic2 | Feature3 |Stakeholder B | partially satisfied | Feedback3 |
