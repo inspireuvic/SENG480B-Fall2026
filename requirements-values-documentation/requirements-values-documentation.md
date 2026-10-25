@@ -99,14 +99,14 @@ Add the export date and a link below.
 
 ## 4.3 Tech - Values alignment summary map
 For each value, document stakeholders’ feedback on their satisfaction on how far their values are satisfied in related feature.
-
+You may update the results in a simple table so it will show the stakeholder satisfaction and who gave the feedback
 eg:
-| Value | Epic | Feature | Satisfaction level | Summarize stakeholder feedback on satisfaction with value alignment in each feature |
-|-------|------|---------|--------------------|-----------------------------------------------|
-| Value1 | Epic1 | Feature1 | satisfied | Feedback1 |
-|        |       | Feature2 | unsatisfied | Feedback2 |
-|        | Epic2 | Feature3 | partially satisfied | Feedback3 |
-| Value2 | Epic3 | Feature4 | satisfied | Feedback4 |
+| Value | Epic | Feature | Stakeholder | Satisfaction level | Summarize stakeholder feedback on satisfaction with value alignment in each feature |
+|-------|------|---------|--------------------|-----------------|-----------------------------------------------|
+| Value1 | Epic1 | Feature1 |Stakeholder A | satisfied | Feedback1 |
+|        |       | Feature2 |Stakeholder A | unsatisfied | Feedback2 |
+|        | Epic2 | Feature3 |Stakeholder B | partially satisfied | Feedback3 |
+| Value2 | Epic3 | Feature4 |Stakeholder C | satisfied | Feedback4 |
 
 ***Note: - Provide all the evidence documents on stakeholder testing and validation on features
          - Provide any details if they find out any missing values they like to have.***
