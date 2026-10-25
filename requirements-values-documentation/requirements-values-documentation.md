@@ -128,4 +128,5 @@ These may include:
 1. **[Requirements and Values Elicitation Guidelines](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/requirements-values-documentation/requirements-values-elicitation-guidelines.md)**
 
 ***Final Submission Marking Notes:***
-Ensure that all GitHub issues for Values, Epics, Features, and User Stories are updated to reflect the final project status. Include the relevant validation results, tech-value alignment, AI use and its validation, with links to all supporting evidence.
+
+- Ensure that all GitHub issues for Values, Epics, Features, and User Stories are updated to reflect the final project status. Include the relevant validation results, tech-value alignment, AI use and its validation, with links to all supporting evidence.
