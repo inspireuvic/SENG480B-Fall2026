@@ -46,6 +46,7 @@ For each stakeholder value:
 ### Section 2.2 for Tech-Value alignment strategy iteration 2
 
  ### 2.2 Validation of Tech-Value Alignment 
+- For each Value  and Epic update the Validation and Value-Alignment section
 - For each User Story, verification and validation of each acceptance criterion should be clearly updated in GitHub. Accordingly, update the tech-value alignment section for each user story.
 - For each Feature, include a validation plan in GitHub describing how stakeholders will be involved in testing and validating whether the implemented values align with their expectations.
 
