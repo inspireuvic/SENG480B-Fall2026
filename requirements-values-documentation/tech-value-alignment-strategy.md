@@ -46,10 +46,11 @@ For each stakeholder value:
 ### Section 2.2 for Tech-Value alignment strategy iteration 2
 
  ### 2.2 Validation strategy of Tech-Value Alignment 
-Explain your plan for validating each stakeholder value and its related Epics, Features, and User Stories. The plan should describe how you will validate the tech-value alignment and how you will obtain stakeholder feedback on their satisfaction, concerns, or any gaps in how each value is reflected in the final outcome.
+Explain your plan for validating each stakeholder value. Based on the relationships between Values, Epics, and Features documented in GitHub issues, plan how you will validate each Feature with the relevant stakeholders to assess its alignment with their values.
 
-When you are validating according to the plan please update relevant Value, Epic, Feature and User Story in GitHub.
-At execution of validation of features, you can use the section 4.3 in requirement and value document for recording the validation results and submit with final requirement and value document submission. 
+During validation, update the relevant GitHub issues with stakeholder feedback and validation outcomes.
+
+Use Section 4.3 of the Requirements and Values document to record the Feature validation results. Submit the completed section with the final Requirements and Values document.
 
 ### 3. Tech-Value Alignment submissions
 At each required submission point:
