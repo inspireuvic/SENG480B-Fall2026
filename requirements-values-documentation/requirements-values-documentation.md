@@ -97,6 +97,20 @@ Add the export date and a link below.
 **Values issue export:** [Add link]  
 **Live GitHub Values view:** [Add link]
 
+## 4.3 Tech - Values alignment summary map
+For each value, document stakeholders’ feedback on their satisfaction on how far their values are satisfied in related feature.
+You may update the results in a simple table so it will show the stakeholder satisfaction and who gave the feedback
+eg:
+| Value | Epic | Feature | Stakeholder | Satisfaction level | Summarize stakeholder feedback on satisfaction with value alignment in each feature |
+|-------|------|---------|-----------------------|-----------------|-------------------------------------------|
+| Value1 | Epic1 | Feature1 |Stakeholder&nbsp;A | satisfied | Feedback1 |
+|        |       | Feature2 |Stakeholder&nbsp;A  | unsatisfied | Feedback2 |
+|        | Epic2 | Feature3 |Stakeholder&nbsp;B | partially satisfied | Feedback3 |
+| Value2 | Epic3 | Feature4 |Stakeholder&nbsp;C | satisfied | Feedback4 |
+
+***Note: - Provide all the evidence documents on stakeholder testing and validation on features
+         - Provide any details if they find out any missing values they like to have.***
+
 
 # 5 Supporting Evidence and References
 Link to the `supporting-documents` folders or files that contain the elicitation and review evidence.
@@ -113,4 +127,6 @@ These may include:
 
 1. **[Requirements and Values Elicitation Guidelines](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/requirements-values-documentation/requirements-values-elicitation-guidelines.md)**
 
+***Final Submission Marking Notes:***
 
+- Ensure that all GitHub issues for Values, Epics, Features, and User Stories are updated to reflect the final project status. Include the relevant validation results, tech-value alignment, AI use and its validation, with links to all supporting evidence.

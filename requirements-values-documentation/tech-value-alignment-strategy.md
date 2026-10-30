@@ -7,7 +7,6 @@ Use this document throughout the project to connect identified stakeholder value
 Use the relevant GitHub issues to record detailed connections, decisions, feedback, AI contributions, and revisions. Use this document to summarize the team’s overall approach and progress without repeating the complete issue records.
 
 
-
 ### 1. Confirm the Value gitHub issue 
 Confirm that each identified stakeholder value:
 
@@ -44,11 +43,14 @@ For each stakeholder value:
 4. Break the epic down into appropriate features, user stories, and their sub tasks.
 5. Use the appropriate Epic, Feature, User Story, or Task template in GitHub issues and complete all applicable fields.
 
-<!-- ### 3. Validation of Tech-Value Alignment
-Ask relevant stakeholders to confirm whether the technical artifacts support the intended stakeholder values. Validation may include reviewing requirements, designs, prototypes, demonstrations, implemented features, or test results.
+### Section 2.2 for Tech-Value alignment strategy iteration 2
 
-Record their feedback and any resulting changes, link the related stakeholder discussion records or supporting evidence as appropriate. Refer to section 5 of [Sprint Planning Document](https://github.com/inspireuvic/SENG480B-Fall2026/blob/main/sprint-documentation/sprint-planning.md). -->
+ ### 2.2 Validation strategy of Tech-Value Alignment 
+Explain your plan for validating each stakeholder value. Based on the relationships between Values, Epics, and Features documented in GitHub issues, plan how you will validate each Feature with the relevant stakeholders to assess its alignment with their values.
 
+During validation, update the relevant GitHub issues with stakeholder feedback and validation outcomes.
+
+Use Section 4.3 of the Requirements and Values document to record the Feature validation results. Submit the completed section with the final Requirements and Values document.
 
 ### 3. Tech-Value Alignment submissions
 At each required submission point:
